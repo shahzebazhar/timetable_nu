@@ -1,0 +1,5126 @@
+{
+    "timetable": {
+        "operating systems": {
+            "bcs-6a": [
+                [
+                    "Monday",
+                    "Seminar Hall",
+                    "8:30 a.m",
+                    "10:00 a.m"
+                ],
+                [
+                    "Wednesday",
+                    "E&M-16",
+                    "8:30 a.m",
+                    "10:00 a.m"
+                ]
+            ],
+            "bcs-4g": [
+                [
+                    "Monday",
+                    "CS-5",
+                    "1:00 p.m",
+                    "2:30 p.m"
+                ],
+                [
+                    "Wednesday",
+                    "CS-5",
+                    "1:00 p.m",
+                    "2:30 p.m"
+                ]
+            ],
+            "bcs-4c": [
+                [
+                    "Monday",
+                    "CS-6",
+                    "8:30 a.m",
+                    "10:00 a.m"
+                ],
+                [
+                    "Wednesday",
+                    "CS-6",
+                    "8:30 a.m",
+                    "10:00 a.m"
+                ]
+            ],
+            "bcs-4d": [
+                [
+                    "Monday",
+                    "CS-6",
+                    "10:00 a.m",
+                    "11:30 a.m"
+                ],
+                [
+                    "Wednesday",
+                    "CS-6",
+                    "10:00 a.m",
+                    "11:30 a.m"
+                ]
+            ],
+            "bcs-4f": [
+                [
+                    "Monday",
+                    "CS-6",
+                    "2:30 p.m",
+                    "4:00 p.m"
+                ],
+                [
+                    "Wednesday",
+                    "CS-6",
+                    "2:30 p.m",
+                    "4:00 p.m"
+                ]
+            ],
+            "bcs-4a": [
+                [
+                    "Monday",
+                    "CS-7",
+                    "10:00 a.m",
+                    "11:30 a.m"
+                ],
+                [
+                    "Wednesday",
+                    "CS-7",
+                    "10:00 a.m",
+                    "11:30 a.m"
+                ]
+            ],
+            "bcs-4b": [
+                [
+                    "Monday",
+                    "CS-7",
+                    "1:00 p.m",
+                    "2:30 p.m"
+                ],
+                [
+                    "Wednesday",
+                    "CS-7",
+                    "1:00 p.m",
+                    "2:30 p.m"
+                ]
+            ],
+            "bcs-4j": [
+                [
+                    "Monday",
+                    "Lib",
+                    "10:00 a.m",
+                    "11:30 a.m"
+                ],
+                [
+                    "Wednesday",
+                    "Lib",
+                    "10:00 a.m",
+                    "11:30 a.m"
+                ]
+            ],
+            "bcs-4h": [
+                [
+                    "Monday",
+                    "Lib",
+                    "11:30 a.m",
+                    "1:00 p.m"
+                ],
+                [
+                    "Wednesday",
+                    "Lib",
+                    "11:30 a.m",
+                    "1:00 p.m"
+                ]
+            ],
+            "bcs-4e": [
+                [
+                    "Tuesday",
+                    "CS-7",
+                    "10:00 a.m",
+                    "11:30 a.m"
+                ],
+                [
+                    "Thursday",
+                    "CS-7",
+                    "10:00 a.m",
+                    "11:30 a.m"
+                ]
+            ],
+            "bds-6a": [
+                [
+                    "Wednesday",
+                    "E&M-4",
+                    "8:30 a.m",
+                    "10:00 a.m"
+                ],
+                [
+                    "Friday",
+                    "E&M-4",
+                    "8:30 a.m",
+                    "10:00 a.m"
+                ]
+            ]
+        },
+        "theory of automata": {
+            "bcs-6b": [
+                [
+                    "Monday",
+                    "Seminar Hall",
+                    "10:00 a.m",
+                    "11:30 a.m"
+                ],
+                [
+                    "Wednesday",
+                    "CE-3",
+                    "10:00 a.m",
+                    "11:30 a.m"
+                ]
+            ],
+            "bcs-6c": [
+                [
+                    "Monday",
+                    "CS-3",
+                    "4:00 p.m",
+                    "5:30 p.m"
+                ],
+                [
+                    "Wednesday",
+                    "CS-3",
+                    "4:00 p.m",
+                    "5:30 p.m"
+                ]
+            ],
+            "bcs-6a": [
+                [
+                    "Monday",
+                    "E&M-2",
+                    "11:30 a.m",
+                    "1:00 p.m"
+                ],
+                [
+                    "Friday",
+                    "E&M-2",
+                    "11:30 a.m",
+                    "1:00 p.m"
+                ]
+            ]
+        },
+        "business process engineering": {
+            "bse-4c": [
+                [
+                    "Monday",
+                    "Seminar Hall",
+                    "11:30 a.m",
+                    "1:00 p.m"
+                ],
+                [
+                    "Wednesday",
+                    "Seminar Hall",
+                    "11:30 a.m",
+                    "1:00 p.m"
+                ]
+            ],
+            "bse-4a": [
+                [
+                    "Tuesday",
+                    "CS-2",
+                    "10:00 a.m",
+                    "11:30 a.m"
+                ],
+                [
+                    "Thursday",
+                    "CS-2",
+                    "10:00 a.m",
+                    "11:30 a.m"
+                ]
+            ],
+            "bse-4b": [
+                [
+                    "Tuesday",
+                    "Lib",
+                    "11:30 a.m",
+                    "1:00 p.m"
+                ],
+                [
+                    "Thursday",
+                    "CS-11",
+                    "11:30 a.m",
+                    "1:00 p.m"
+                ]
+            ]
+        },
+        "probability & statistics": {
+            "bcs-4m": [
+                [
+                    "Monday",
+                    "Seminar Hall",
+                    "2:30 p.m",
+                    "4:00 p.m"
+                ],
+                [
+                    "Wednesday",
+                    "Seminar Hall",
+                    "2:30 p.m",
+                    "4:00 p.m"
+                ]
+            ],
+            "bse-4c": [
+                [
+                    "Monday",
+                    "CS-7",
+                    "2:30 p.m",
+                    "4:00 p.m"
+                ],
+                [
+                    "Wednesday",
+                    "CS-7",
+                    "2:30 p.m",
+                    "4:00 p.m"
+                ]
+            ],
+            "bcs-4h": [
+                [
+                    "Monday",
+                    "E&M-5",
+                    "8:30 a.m",
+                    "10:00 a.m"
+                ],
+                [
+                    "Wednesday",
+                    "E&M-5",
+                    "8:30 a.m",
+                    "10:00 a.m"
+                ]
+            ],
+            "bcs-4f": [
+                [
+                    "Monday",
+                    "E&M-5",
+                    "1:00 p.m",
+                    "2:30 p.m"
+                ],
+                [
+                    "Wednesday",
+                    "E&M-5",
+                    "1:00 p.m",
+                    "2:30 p.m"
+                ]
+            ],
+            "bcs-4g": [
+                [
+                    "Monday",
+                    "E&M-5",
+                    "2:30 p.m",
+                    "4:00 p.m"
+                ],
+                [
+                    "Wednesday",
+                    "E&M-5",
+                    "2:30 p.m",
+                    "4:00 p.m"
+                ]
+            ],
+            "bcs-4a": [
+                [
+                    "Monday",
+                    "E&M-11",
+                    "11:30 a.m",
+                    "1:00 p.m"
+                ],
+                [
+                    "Wednesday",
+                    "E&M-11",
+                    "11:30 a.m",
+                    "1:00 p.m"
+                ]
+            ],
+            "bcs-4d": [
+                [
+                    "Monday",
+                    "E&M-11",
+                    "1:00 p.m",
+                    "2:30 p.m"
+                ],
+                [
+                    "Wednesday",
+                    "E&M-11",
+                    "1:00 p.m",
+                    "2:30 p.m"
+                ]
+            ],
+            "bcs-4c": [
+                [
+                    "Monday",
+                    "E&M-11",
+                    "2:30 p.m",
+                    "4:00 p.m"
+                ],
+                [
+                    "Wednesday",
+                    "E&M-11",
+                    "2:30 p.m",
+                    "4:00 p.m"
+                ]
+            ],
+            "bcs-4k": [
+                [
+                    "Monday",
+                    "CS-1",
+                    "2:30 p.m",
+                    "4:00 p.m"
+                ],
+                [
+                    "Wednesday",
+                    "CS-1",
+                    "2:30 p.m",
+                    "4:00 p.m"
+                ]
+            ],
+            "bse-4b": [
+                [
+                    "Tuesday",
+                    "Lib",
+                    "2:30 p.m",
+                    "4:00 p.m"
+                ],
+                [
+                    "Thursday",
+                    "Lib",
+                    "2:30 p.m",
+                    "4:00 p.m"
+                ]
+            ],
+            "bse-4a": [
+                [
+                    "Tuesday",
+                    "Lib",
+                    "4:00 p.m",
+                    "5:30 p.m"
+                ],
+                [
+                    "Thursday",
+                    "Lib",
+                    "4:00 p.m",
+                    "5:30 p.m"
+                ]
+            ],
+            "bcs-4j": [
+                [
+                    "Tuesday",
+                    "E&M-5",
+                    "8:30 a.m",
+                    "10:00 a.m"
+                ],
+                [
+                    "Thursday",
+                    "E&M-5",
+                    "8:30 a.m",
+                    "10:00 a.m"
+                ]
+            ],
+            "bcs-4l": [
+                [
+                    "Tuesday",
+                    "E&M-5",
+                    "2:30 p.m",
+                    "4:00 p.m"
+                ],
+                [
+                    "Thursday",
+                    "E&M-5",
+                    "2:30 p.m",
+                    "4:00 p.m"
+                ]
+            ],
+            "bcs-4b": [
+                [
+                    "Tuesday",
+                    "E&M-11",
+                    "11:30 a.m",
+                    "1:00 p.m"
+                ],
+                [
+                    "Thursday",
+                    "E&M-11",
+                    "11:30 a.m",
+                    "1:00 p.m"
+                ]
+            ],
+            "bcs-4e": [
+                [
+                    "Tuesday",
+                    "E&M-11",
+                    "2:30 p.m",
+                    "4:00 p.m"
+                ],
+                [
+                    "Thursday",
+                    "E&M-11",
+                    "2:30 p.m",
+                    "4:00 p.m"
+                ]
+            ]
+        },
+        "object oriented programming": {
+            "bds-2b": [
+                [
+                    "Monday",
+                    "CS-2",
+                    "8:30 a.m",
+                    "10:00 a.m"
+                ],
+                [
+                    "Wednesday",
+                    "CS-2",
+                    "8:30 a.m",
+                    "10:00 a.m"
+                ]
+            ],
+            "bcs-2a": [
+                [
+                    "Monday",
+                    "CS-3",
+                    "11:30 a.m",
+                    "1:00 p.m"
+                ],
+                [
+                    "Wednesday",
+                    "CS-3",
+                    "11:30 a.m",
+                    "1:00 p.m"
+                ]
+            ],
+            "bcs-2b": [
+                [
+                    "Monday",
+                    "CS-3",
+                    "1:00 p.m",
+                    "2:30 p.m"
+                ],
+                [
+                    "Wednesday",
+                    "CS-3",
+                    "1:00 p.m",
+                    "2:30 p.m"
+                ]
+            ],
+            "bcs-2e": [
+                [
+                    "Monday",
+                    "CS-5",
+                    "4:00 p.m",
+                    "5:30 p.m"
+                ],
+                [
+                    "Wednesday",
+                    "CS-5",
+                    "4:00 p.m",
+                    "5:30 p.m"
+                ]
+            ],
+            "bcs-2j": [
+                [
+                    "Monday",
+                    "CS-7",
+                    "8:30 a.m",
+                    "10:00 a.m"
+                ],
+                [
+                    "Wednesday",
+                    "CS-7",
+                    "8:30 a.m",
+                    "10:00 a.m"
+                ]
+            ],
+            "bse-2a": [
+                [
+                    "Monday",
+                    "CS-9",
+                    "11:30 a.m",
+                    "1:00 p.m"
+                ],
+                [
+                    "Wednesday",
+                    "CS-9",
+                    "11:30 a.m",
+                    "1:00 p.m"
+                ]
+            ],
+            "bcs-2g": [
+                [
+                    "Monday",
+                    "CS-9",
+                    "1:00 p.m",
+                    "2:30 p.m"
+                ],
+                [
+                    "Wednesday",
+                    "CS-9",
+                    "1:00 p.m",
+                    "2:30 p.m"
+                ]
+            ],
+            "bcs-2f": [
+                [
+                    "Monday",
+                    "CS-9",
+                    "2:30 p.m",
+                    "4:00 p.m"
+                ],
+                [
+                    "Wednesday",
+                    "CS-9",
+                    "2:30 p.m",
+                    "4:00 p.m"
+                ]
+            ],
+            "bcs-4l": [
+                [
+                    "Monday",
+                    "CS-10",
+                    "4:00 p.m",
+                    "5:30 p.m"
+                ],
+                [
+                    "Wednesday",
+                    "CS-10",
+                    "4:00 p.m",
+                    "5:30 p.m"
+                ]
+            ],
+            "bcs-2c": [
+                [
+                    "Tuesday",
+                    "CS-5",
+                    "2:30 p.m",
+                    "4:00 p.m"
+                ],
+                [
+                    "Thursday",
+                    "CS-5",
+                    "2:30 p.m",
+                    "4:00 p.m"
+                ]
+            ],
+            "bcs-2d": [
+                [
+                    "Tuesday",
+                    "CS-5",
+                    "4:00 p.m",
+                    "5:30 p.m"
+                ],
+                [
+                    "Thursday",
+                    "CS-5",
+                    "4:00 p.m",
+                    "5:30 p.m"
+                ]
+            ],
+            "bds-2a": [
+                [
+                    "Tuesday",
+                    "CS-6",
+                    "11:30 a.m",
+                    "1:00 p.m"
+                ],
+                [
+                    "Thursday",
+                    "CS-6",
+                    "11:30 a.m",
+                    "1:00 p.m"
+                ]
+            ],
+            "bse-2b": [
+                [
+                    "Tuesday",
+                    "CS-7",
+                    "11:30 a.m",
+                    "1:00 p.m"
+                ],
+                [
+                    "Thursday",
+                    "CS-7",
+                    "11:30 a.m",
+                    "1:00 p.m"
+                ]
+            ],
+            "bse-2c": [
+                [
+                    "Tuesday",
+                    "CS-7",
+                    "2:30 p.m",
+                    "4:00 p.m"
+                ],
+                [
+                    "Thursday",
+                    "CS-7",
+                    "2:30 p.m",
+                    "4:00 p.m"
+                ]
+            ],
+            "bds-2c": [
+                [
+                    "Tuesday",
+                    "CS-10",
+                    "4:00 p.m",
+                    "5:30 p.m"
+                ],
+                [
+                    "Thursday",
+                    "CS-10",
+                    "4:00 p.m",
+                    "5:30 p.m"
+                ]
+            ],
+            "bcs-2h": [
+                [
+                    "Tuesday",
+                    "CS-11",
+                    "1:00 p.m",
+                    "2:30 p.m"
+                ],
+                [
+                    "Thursday",
+                    "CS-11",
+                    "1:00 p.m",
+                    "2:30 p.m"
+                ]
+            ]
+        },
+        "software engineering": {
+            "bcs-6a": [
+                [
+                    "Monday",
+                    "CS-2",
+                    "10:00 a.m",
+                    "11:30 a.m"
+                ],
+                [
+                    "Wednesday",
+                    "CS-2",
+                    "10:00 a.m",
+                    "11:30 a.m"
+                ]
+            ],
+            "bcs-8a": [
+                [
+                    "Monday",
+                    "CS-11",
+                    "1:00 p.m",
+                    "2:30 p.m"
+                ],
+                [
+                    "Wednesday",
+                    "CS-11",
+                    "1:00 p.m",
+                    "2:30 p.m"
+                ]
+            ],
+            "bcs-6e": [
+                [
+                    "Monday",
+                    "E&M-1",
+                    "1:00 p.m",
+                    "2:30 p.m"
+                ],
+                [
+                    "Wednesday",
+                    "E&M-1",
+                    "1:00 p.m",
+                    "2:30 p.m"
+                ]
+            ],
+            "bcs-6b": [
+                [
+                    "Monday",
+                    "CS-8",
+                    "11:30 a.m",
+                    "1:00 p.m"
+                ],
+                [
+                    "Wednesday",
+                    "E&M-16",
+                    "11:30 a.m",
+                    "1:00 p.m"
+                ]
+            ],
+            "bcs-6f": [
+                [
+                    "Tuesday",
+                    "CS-2",
+                    "8:30 a.m",
+                    "10:00 a.m"
+                ],
+                [
+                    "Thursday",
+                    "CS-2",
+                    "8:30 a.m",
+                    "10:00 a.m"
+                ]
+            ],
+            "bcs-6c": [
+                [
+                    "Tuesday",
+                    "E&M-16",
+                    "10:00 a.m",
+                    "11:30 a.m"
+                ],
+                [
+                    "Thursday",
+                    "E&M-16",
+                    "10:00 a.m",
+                    "11:30 a.m"
+                ]
+            ],
+            "bcs-6d": [
+                [
+                    "Tuesday",
+                    "E&M-16",
+                    "11:30 a.m",
+                    "1:00 p.m"
+                ],
+                [
+                    "Thursday",
+                    "E&M-16",
+                    "11:30 a.m",
+                    "1:00 p.m"
+                ]
+            ]
+        },
+        "database systems": {
+            "bcs-4c": [
+                [
+                    "Monday",
+                    "CS-2",
+                    "11:30 a.m",
+                    "1:00 p.m"
+                ],
+                [
+                    "Wednesday",
+                    "CS-2",
+                    "11:30 a.m",
+                    "1:00 p.m"
+                ]
+            ],
+            "bcs-4h": [
+                [
+                    "Monday",
+                    "CS-2",
+                    "2:30 p.m",
+                    "4:00 p.m"
+                ],
+                [
+                    "Wednesday",
+                    "CS-2",
+                    "2:30 p.m",
+                    "4:00 p.m"
+                ]
+            ],
+            "bds-4b": [
+                [
+                    "Monday",
+                    "CS-3",
+                    "2:30 p.m",
+                    "4:00 p.m"
+                ],
+                [
+                    "Wednesday",
+                    "CS-11",
+                    "11:30 a.m",
+                    "1:00 p.m"
+                ]
+            ],
+            "bcs-4a": [
+                [
+                    "Monday",
+                    "CS-4",
+                    "8:30 a.m",
+                    "10:00 a.m"
+                ],
+                [
+                    "Wednesday",
+                    "CS-4",
+                    "8:30 a.m",
+                    "10:00 a.m"
+                ]
+            ],
+            "bcs-4g": [
+                [
+                    "Monday",
+                    "CS-4",
+                    "10:00 a.m",
+                    "11:30 a.m"
+                ],
+                [
+                    "Wednesday",
+                    "CS-4",
+                    "10:00 a.m",
+                    "11:30 a.m"
+                ]
+            ],
+            "bcs-4e": [
+                [
+                    "Monday",
+                    "CS-4",
+                    "1:00 p.m",
+                    "2:30 p.m"
+                ],
+                [
+                    "Wednesday",
+                    "CS-4",
+                    "1:00 p.m",
+                    "2:30 p.m"
+                ]
+            ],
+            "bds-4a": [
+                [
+                    "Monday",
+                    "CS-11",
+                    "10:00 a.m",
+                    "11:30 a.m"
+                ],
+                [
+                    "Wednesday",
+                    "CS-11",
+                    "10:00 a.m",
+                    "11:30 a.m"
+                ]
+            ],
+            "bds-4c": [
+                [
+                    "Monday",
+                    "CS-11",
+                    "11:30 a.m",
+                    "1:00 p.m"
+                ],
+                [
+                    "Tuesday",
+                    "CS-4",
+                    "1:00 p.m",
+                    "2:30 p.m"
+                ]
+            ],
+            "bcs-4b": [
+                [
+                    "Monday",
+                    "CE-3",
+                    "10:00 a.m",
+                    "11:30 a.m"
+                ],
+                [
+                    "Wednesday",
+                    "CS-15",
+                    "10:00 a.m",
+                    "11:30 a.m"
+                ]
+            ],
+            "bcs-4d": [
+                [
+                    "Tuesday",
+                    "CS-3",
+                    "11:30 a.m",
+                    "1:00 p.m"
+                ],
+                [
+                    "Thursday",
+                    "CS-3",
+                    "11:30 a.m",
+                    "1:00 p.m"
+                ]
+            ],
+            "bcs-4f": [
+                [
+                    "Tuesday",
+                    "CS-3",
+                    "1:00 p.m",
+                    "2:30 p.m"
+                ],
+                [
+                    "Thursday",
+                    "CS-3",
+                    "1:00 p.m",
+                    "2:30 p.m"
+                ]
+            ],
+            "bcs-4j": [
+                [
+                    "Tuesday",
+                    "CS-5",
+                    "1:00 p.m",
+                    "2:30 p.m"
+                ],
+                [
+                    "Thursday",
+                    "CS-4",
+                    "1:00 p.m",
+                    "2:30 p.m"
+                ]
+            ],
+            "bcs-6a": [
+                [
+                    "Tuesday",
+                    "CS-6",
+                    "4:00 p.m",
+                    "5:30 p.m"
+                ],
+                [
+                    "Thursday",
+                    "CS-6",
+                    "4:00 p.m",
+                    "5:30 p.m"
+                ]
+            ],
+            "bse-4a": [
+                [
+                    "Tuesday",
+                    "E&M-2",
+                    "11:30 a.m",
+                    "1:00 p.m"
+                ],
+                [
+                    "Thursday",
+                    "E&M-2",
+                    "11:30 a.m",
+                    "1:00 p.m"
+                ]
+            ],
+            "bse-4b": [
+                [
+                    "Tuesday",
+                    "CE-3",
+                    "10:00 a.m",
+                    "11:30 a.m"
+                ],
+                [
+                    "Thursday",
+                    "CS-9",
+                    "1:00 p.m",
+                    "2:30 p.m"
+                ]
+            ]
+        },
+        "comp. org. & assembly lang.": {
+            "bcs-4m": [
+                [
+                    "Monday",
+                    "CS-2",
+                    "1:00 p.m",
+                    "2:30 p.m"
+                ],
+                [
+                    "Wednesday",
+                    "CS-2",
+                    "1:00 p.m",
+                    "2:30 p.m"
+                ]
+            ],
+            "bds-4e": [
+                [
+                    "Tuesday",
+                    "CS-16",
+                    "11:30 a.m",
+                    "1:00 p.m"
+                ],
+                [
+                    "Thursday",
+                    "CS-16",
+                    "11:30 a.m",
+                    "1:00 p.m"
+                ]
+            ],
+            "bcs-4l": [
+                [
+                    "Tuesday",
+                    "CE-2",
+                    "1:00 p.m",
+                    "2:30 p.m"
+                ],
+                [
+                    "Thursday",
+                    "CE-2",
+                    "1:00 p.m",
+                    "2:30 p.m"
+                ]
+            ]
+        },
+        "design patterns": {
+            "msp-2a": [
+                [
+                    "Monday",
+                    "CS-2",
+                    "5:30 p.m",
+                    "8:30 p.m"
+                ]
+            ]
+        },
+        "internet of things": {
+            "bcs-8a": [
+                [
+                    "Monday",
+                    "CS-3",
+                    "8:30 a.m",
+                    "10:00 a.m"
+                ],
+                [
+                    "Wednesday",
+                    "CS-3",
+                    "8:30 a.m",
+                    "10:00 a.m"
+                ]
+            ],
+            "bcs-8b": [
+                [
+                    "Tuesday",
+                    "CS-11",
+                    "11:30 a.m",
+                    "1:00 p.m"
+                ],
+                [
+                    "Thursday",
+                    "CS-15",
+                    "11:30 a.m",
+                    "1:00 p.m"
+                ]
+            ],
+            "mcs-2a": [
+                [
+                    "Wednesday",
+                    "CS-8",
+                    "2:30 p.m",
+                    "5:30 p.m"
+                ]
+            ]
+        },
+        "data structures": {
+            "bcs-4m": [
+                [
+                    "Monday",
+                    "CS-3",
+                    "10:00 a.m",
+                    "11:30 a.m"
+                ],
+                [
+                    "Wednesday",
+                    "CS-3",
+                    "10:00 a.m",
+                    "11:30 a.m"
+                ]
+            ],
+            "bcs-4l": [
+                [
+                    "Monday",
+                    "CS-4",
+                    "11:30 a.m",
+                    "1:00 p.m"
+                ],
+                [
+                    "Wednesday",
+                    "CS-4",
+                    "11:30 a.m",
+                    "1:00 p.m"
+                ]
+            ],
+            "bcs-4n": [
+                [
+                    "Monday",
+                    "CS-10",
+                    "8:30 a.m",
+                    "10:00 a.m"
+                ],
+                [
+                    "Wednesday",
+                    "Lib",
+                    "8:30 a.m",
+                    "10:00 a.m"
+                ]
+            ],
+            "bds-4e": [
+                [
+                    "Tuesday",
+                    "CS-6",
+                    "1:00 p.m",
+                    "2:30 p.m"
+                ],
+                [
+                    "Thursday",
+                    "CS-6",
+                    "1:00 p.m",
+                    "2:30 p.m"
+                ]
+            ],
+            "bse-4c": [
+                [
+                    "Tuesday",
+                    "E&M-4",
+                    "10:00 a.m",
+                    "11:30 a.m"
+                ],
+                [
+                    "Thursday",
+                    "E&M-4",
+                    "10:00 a.m",
+                    "11:30 a.m"
+                ]
+            ]
+        },
+        "discrete structures": {
+            "bse-2b": [
+                [
+                    "Monday",
+                    "CS-4",
+                    "2:30 p.m",
+                    "4:00 p.m"
+                ],
+                [
+                    "Wednesday",
+                    "CS-4",
+                    "2:30 p.m",
+                    "4:00 p.m"
+                ]
+            ],
+            "bse-2c": [
+                [
+                    "Monday",
+                    "CS-1",
+                    "1:00 p.m",
+                    "2:30 p.m"
+                ],
+                [
+                    "Wednesday",
+                    "CS-1",
+                    "1:00 p.m",
+                    "2:30 p.m"
+                ]
+            ],
+            "bse-2a": [
+                [
+                    "Tuesday",
+                    "E&M-4",
+                    "11:30 a.m",
+                    "1:00 p.m"
+                ],
+                [
+                    "Friday",
+                    "E&M-4",
+                    "11:30 a.m",
+                    "1:00 p.m"
+                ]
+            ],
+            "bcs-4l": [
+                [
+                    "Wednesday",
+                    "CS-6",
+                    "5:30 p.m",
+                    "7:00 p.m"
+                ],
+                [
+                    "Thursday",
+                    "CS-6",
+                    "5:30 p.m",
+                    "7:00 p.m"
+                ]
+            ]
+        },
+        "professional practices in it": {
+            "bcs-8a": [
+                [
+                    "Monday",
+                    "CS-4",
+                    "4:00 p.m",
+                    "5:30 p.m"
+                ],
+                [
+                    "Wednesday",
+                    "CS-4",
+                    "4:00 p.m",
+                    "5:30 p.m"
+                ]
+            ],
+            "bcs-8b": [
+                [
+                    "Tuesday",
+                    "CS-7",
+                    "4:00 p.m",
+                    "5:30 p.m"
+                ],
+                [
+                    "Thursday",
+                    "CS-7",
+                    "4:00 p.m",
+                    "5:30 p.m"
+                ]
+            ]
+        },
+        "information retrieval": {
+            "bcs-8b": [
+                [
+                    "Monday",
+                    "CS-5",
+                    "8:30 a.m",
+                    "10:00 a.m"
+                ],
+                [
+                    "Wednesday",
+                    "E&M-1",
+                    "8:30 a.m",
+                    "10:00 a.m"
+                ]
+            ],
+            "bcs-8a": [
+                [
+                    "Monday",
+                    "CS-5",
+                    "10:00 a.m",
+                    "11:30 a.m"
+                ],
+                [
+                    "Wednesday",
+                    "E&M-1",
+                    "10:00 a.m",
+                    "11:30 a.m"
+                ]
+            ],
+            "bds-6b": [
+                [
+                    "Monday",
+                    "CS-6",
+                    "1:00 p.m",
+                    "2:30 p.m"
+                ],
+                [
+                    "Wednesday",
+                    "CS-6",
+                    "1:00 p.m",
+                    "2:30 p.m"
+                ]
+            ],
+            "bds-6a": [
+                [
+                    "Monday",
+                    "E&M-4",
+                    "10:00 a.m",
+                    "11:30 a.m"
+                ],
+                [
+                    "Wednesday",
+                    "E&M-4",
+                    "10:00 a.m",
+                    "11:30 a.m"
+                ]
+            ]
+        },
+        "digital logic design": {
+            "bds-2c": [
+                [
+                    "Monday",
+                    "CS-5",
+                    "11:30 a.m",
+                    "1:00 p.m"
+                ],
+                [
+                    "Wednesday",
+                    "CS-5",
+                    "11:30 a.m",
+                    "1:00 p.m"
+                ]
+            ],
+            "bcs-2h": [
+                [
+                    "Monday",
+                    "CS-7",
+                    "11:30 a.m",
+                    "1:00 p.m"
+                ],
+                [
+                    "Wednesday",
+                    "CS-7",
+                    "11:30 a.m",
+                    "1:00 p.m"
+                ]
+            ],
+            "bcs-2d": [
+                [
+                    "Monday",
+                    "CS-10",
+                    "2:30 p.m",
+                    "4:00 p.m"
+                ],
+                [
+                    "Wednesday",
+                    "CS-10",
+                    "2:30 p.m",
+                    "4:00 p.m"
+                ]
+            ],
+            "bcs-2c": [
+                [
+                    "Monday",
+                    "CS-16",
+                    "1:00 p.m",
+                    "2:30 p.m"
+                ],
+                [
+                    "Wednesday",
+                    "CS-16",
+                    "1:00 p.m",
+                    "2:30 p.m"
+                ]
+            ],
+            "bds-2a": [
+                [
+                    "Monday",
+                    "E&M-5",
+                    "10:00 a.m",
+                    "11:30 a.m"
+                ],
+                [
+                    "Wednesday",
+                    "CS-5",
+                    "10:00 a.m",
+                    "11:30 a.m"
+                ]
+            ],
+            "bds-2b": [
+                [
+                    "Tuesday",
+                    "CS-2",
+                    "1:00 p.m",
+                    "2:30 p.m"
+                ],
+                [
+                    "Thursday",
+                    "CS-2",
+                    "1:00 p.m",
+                    "2:30 p.m"
+                ]
+            ],
+            "bcs-2j": [
+                [
+                    "Tuesday",
+                    "CS-3",
+                    "10:00 a.m",
+                    "11:30 a.m"
+                ],
+                [
+                    "Thursday",
+                    "CS-4",
+                    "10:00 a.m",
+                    "11:30 a.m"
+                ]
+            ],
+            "bcs-2e": [
+                [
+                    "Tuesday",
+                    "CS-7",
+                    "1:00 p.m",
+                    "2:30 p.m"
+                ],
+                [
+                    "Thursday",
+                    "CS-7",
+                    "1:00 p.m",
+                    "2:30 p.m"
+                ]
+            ],
+            "bcs-2a": [
+                [
+                    "Tuesday",
+                    "CS-9",
+                    "8:30 a.m",
+                    "10:00 a.m"
+                ],
+                [
+                    "Thursday",
+                    "CS-9",
+                    "8:30 a.m",
+                    "10:00 a.m"
+                ]
+            ],
+            "bcs-2g": [
+                [
+                    "Tuesday",
+                    "CS-9",
+                    "10:00 a.m",
+                    "11:30 a.m"
+                ],
+                [
+                    "Thursday",
+                    "CS-9",
+                    "10:00 a.m",
+                    "11:30 a.m"
+                ]
+            ],
+            "bcs-2f": [
+                [
+                    "Tuesday",
+                    "E&M-16",
+                    "1:00 p.m",
+                    "2:30 p.m"
+                ],
+                [
+                    "Thursday",
+                    "E&M-16",
+                    "1:00 p.m",
+                    "2:30 p.m"
+                ]
+            ],
+            "bcs-2b": [
+                [
+                    "Wednesday",
+                    "CS-1",
+                    "10:00 a.m",
+                    "11:30 a.m"
+                ],
+                [
+                    "Friday",
+                    "CS-9",
+                    "10:00 a.m",
+                    "11:30 a.m"
+                ]
+            ]
+        },
+        "marketing management": {
+            "bds-6a": [
+                [
+                    "Monday",
+                    "CS-5",
+                    "2:30 p.m",
+                    "4:00 p.m"
+                ],
+                [
+                    "Wednesday",
+                    "CS-5",
+                    "2:30 p.m",
+                    "4:00 p.m"
+                ]
+            ],
+            "bse-4a": [
+                [
+                    "Monday",
+                    "CS-15",
+                    "1:00 p.m",
+                    "2:30 p.m"
+                ],
+                [
+                    "Wednesday",
+                    "CS-15",
+                    "1:00 p.m",
+                    "2:30 p.m"
+                ]
+            ],
+            "bcs-4a": [
+                [
+                    "Tuesday",
+                    "Lab(CS-3)",
+                    "10:00 a.m",
+                    "11:30 a.m"
+                ],
+                [
+                    "Thursday",
+                    "Lab(CS-3)",
+                    "10:00 a.m",
+                    "11:30 a.m"
+                ]
+            ],
+            "bcs-8a": [
+                [
+                    "Tuesday",
+                    "Lab(CS-3)",
+                    "11:30 a.m",
+                    "1:00 p.m"
+                ],
+                [
+                    "Thursday",
+                    "Lab(CS-3)",
+                    "11:30 a.m",
+                    "1:00 p.m"
+                ]
+            ]
+        },
+        "software for mobile devices": {
+            "bcs-8a": [
+                [
+                    "Monday",
+                    "CS-6",
+                    "11:30 a.m",
+                    "1:00 p.m"
+                ],
+                [
+                    "Friday",
+                    "CS-7",
+                    "10:00 a.m",
+                    "11:30 a.m"
+                ]
+            ],
+            "bcs-6a": [
+                [
+                    "Monday",
+                    "CS-10",
+                    "11:30 a.m",
+                    "1:00 p.m"
+                ],
+                [
+                    "Wednesday",
+                    "CS-10",
+                    "11:30 a.m",
+                    "1:00 p.m"
+                ]
+            ],
+            "bcs-6b": [
+                [
+                    "Monday",
+                    "CS-10",
+                    "1:00 p.m",
+                    "2:30 p.m"
+                ],
+                [
+                    "Wednesday",
+                    "CS-10",
+                    "1:00 p.m",
+                    "2:30 p.m"
+                ]
+            ],
+            "bcs-8b": [
+                [
+                    "Monday",
+                    "CS-1",
+                    "10:00 a.m",
+                    "11:30 a.m"
+                ],
+                [
+                    "Friday",
+                    "CS-7",
+                    "11:30 a.m",
+                    "1:00 p.m"
+                ]
+            ]
+        },
+        "artificial intelligence": {
+            "bcs-6b": [
+                [
+                    "Monday",
+                    "CS-6",
+                    "4:00 p.m",
+                    "5:30 p.m"
+                ],
+                [
+                    "Wednesday",
+                    "CS-6",
+                    "4:00 p.m",
+                    "5:30 p.m"
+                ]
+            ],
+            "bcs-6a": [
+                [
+                    "Monday",
+                    "CS-11",
+                    "2:30 p.m",
+                    "4:00 p.m"
+                ],
+                [
+                    "Wednesday",
+                    "CS-11",
+                    "2:30 p.m",
+                    "4:00 p.m"
+                ]
+            ],
+            "bds-6b": [
+                [
+                    "Tuesday",
+                    "Seminar Hall",
+                    "8:30 a.m",
+                    "10:00 a.m"
+                ],
+                [
+                    "Thursday",
+                    "Seminar Hall",
+                    "8:30 a.m",
+                    "10:00 a.m"
+                ]
+            ],
+            "bds-6a": [
+                [
+                    "Tuesday",
+                    "Seminar Hall",
+                    "10:00 a.m",
+                    "11:30 a.m"
+                ],
+                [
+                    "Thursday",
+                    "Seminar Hall",
+                    "10:00 a.m",
+                    "11:30 a.m"
+                ]
+            ],
+            "bcs-6c": [
+                [
+                    "Tuesday",
+                    "CS-9",
+                    "11:30 a.m",
+                    "1:00 p.m"
+                ],
+                [
+                    "Thursday",
+                    "CS-9",
+                    "11:30 a.m",
+                    "1:00 p.m"
+                ]
+            ],
+            "bcs-6d": [
+                [
+                    "Tuesday",
+                    "Lib",
+                    "1:00 p.m",
+                    "2:30 p.m"
+                ],
+                [
+                    "Thursday",
+                    "E&M-1",
+                    "1:00 p.m",
+                    "2:30 p.m"
+                ]
+            ],
+            "bcs-6e": [
+                [
+                    "Wednesday",
+                    "E&M-16",
+                    "10:00 a.m",
+                    "11:30 a.m"
+                ],
+                [
+                    "Friday",
+                    "E&M-16",
+                    "10:00 a.m",
+                    "11:30 a.m"
+                ]
+            ],
+            "bcs-6f": [
+                [
+                    "Wednesday",
+                    "E&M-16",
+                    "1:00 p.m",
+                    "2:30 p.m"
+                ],
+                [
+                    "Friday",
+                    "E&M-16",
+                    "11:30 a.m",
+                    "1:00 p.m"
+                ]
+            ]
+        },
+        "web programming": {
+            "bcs-8b": [
+                [
+                    "Monday",
+                    "CS-7",
+                    "4:00 p.m",
+                    "5:30 p.m"
+                ],
+                [
+                    "Wednesday",
+                    "CS-7",
+                    "4:00 p.m",
+                    "5:30 p.m"
+                ]
+            ],
+            "bcs-8a": [
+                [
+                    "Tuesday",
+                    "E&M-3",
+                    "10:00 a.m",
+                    "11:30 a.m"
+                ],
+                [
+                    "Thursday",
+                    "E&M-3",
+                    "10:00 a.m",
+                    "11:30 a.m"
+                ]
+            ]
+        },
+        "intro to software engineering": {
+            "bse-2b": [
+                [
+                    "Monday",
+                    "CS-9",
+                    "8:30 a.m",
+                    "10:00 a.m"
+                ],
+                [
+                    "Wednesday",
+                    "CS-9",
+                    "8:30 a.m",
+                    "10:00 a.m"
+                ]
+            ],
+            "bse-2a": [
+                [
+                    "Monday",
+                    "CS-9",
+                    "10:00 a.m",
+                    "11:30 a.m"
+                ],
+                [
+                    "Wednesday",
+                    "CS-9",
+                    "10:00 a.m",
+                    "11:30 a.m"
+                ]
+            ],
+            "bse-2c": [
+                [
+                    "Monday",
+                    "CS-10",
+                    "10:00 a.m",
+                    "11:30 a.m"
+                ],
+                [
+                    "Wednesday",
+                    "CS-10",
+                    "10:00 a.m",
+                    "11:30 a.m"
+                ]
+            ]
+        },
+        "intro. to game development": {
+            "bcs-9a": [
+                [
+                    "Monday",
+                    "CS-9",
+                    "4:00 p.m",
+                    "5:30 p.m"
+                ],
+                [
+                    "Wednesday",
+                    "CS-9",
+                    "4:00 p.m",
+                    "5:30 p.m"
+                ]
+            ]
+        },
+        "data mining": {
+            "bds-6a": [
+                [
+                    "Monday",
+                    "CS-11",
+                    "8:30 a.m",
+                    "10:00 a.m"
+                ],
+                [
+                    "Friday",
+                    "CS-15",
+                    "10:00 a.m",
+                    "11:30 a.m"
+                ]
+            ]
+        },
+        "advanced statistics": {
+            "bds-4c": [
+                [
+                    "Monday",
+                    "CS-11",
+                    "4:00 p.m",
+                    "5:30 p.m"
+                ],
+                [
+                    "Wednesday",
+                    "CS-11",
+                    "4:00 p.m",
+                    "5:30 p.m"
+                ]
+            ],
+            "bds-4b": [
+                [
+                    "Tuesday",
+                    "CS-11",
+                    "2:30 p.m",
+                    "4:00 p.m"
+                ],
+                [
+                    "Thursday",
+                    "CS-11",
+                    "2:30 p.m",
+                    "4:00 p.m"
+                ]
+            ],
+            "bds-4a": [
+                [
+                    "Tuesday",
+                    "E&M-16",
+                    "2:30 p.m",
+                    "4:00 p.m"
+                ],
+                [
+                    "Thursday",
+                    "E&M-16",
+                    "2:30 p.m",
+                    "4:00 p.m"
+                ]
+            ]
+        },
+        "differential equations": {
+            "bcs-2e": [
+                [
+                    "Monday",
+                    "CS-15",
+                    "8:30 a.m",
+                    "10:00 a.m"
+                ],
+                [
+                    "Wednesday",
+                    "CS-15",
+                    "8:30 a.m",
+                    "10:00 a.m"
+                ]
+            ],
+            "bcs-2f": [
+                [
+                    "Monday",
+                    "CS-16",
+                    "10:00 a.m",
+                    "11:30 a.m"
+                ],
+                [
+                    "Wednesday",
+                    "CS-16",
+                    "10:00 a.m",
+                    "11:30 a.m"
+                ]
+            ],
+            "bcs-2g": [
+                [
+                    "Monday",
+                    "CS-16",
+                    "11:30 a.m",
+                    "1:00 p.m"
+                ],
+                [
+                    "Wednesday",
+                    "CS-16",
+                    "11:30 a.m",
+                    "1:00 p.m"
+                ]
+            ],
+            "bcs-2c": [
+                [
+                    "Monday",
+                    "CE-1",
+                    "11:30 a.m",
+                    "1:00 p.m"
+                ],
+                [
+                    "Wednesday",
+                    "CE-1",
+                    "11:30 a.m",
+                    "1:00 p.m"
+                ]
+            ],
+            "bcs-2h": [
+                [
+                    "Tuesday",
+                    "Seminar Hall",
+                    "11:30 a.m",
+                    "1:00 p.m"
+                ],
+                [
+                    "Thursday",
+                    "Seminar Hall",
+                    "11:30 a.m",
+                    "1:00 p.m"
+                ]
+            ],
+            "bcs-2b": [
+                [
+                    "Tuesday",
+                    "Seminar Hall",
+                    "1:00 p.m",
+                    "2:30 p.m"
+                ],
+                [
+                    "Thursday",
+                    "Seminar Hall",
+                    "1:00 p.m",
+                    "2:30 p.m"
+                ]
+            ],
+            "bcs-2a": [
+                [
+                    "Tuesday",
+                    "Seminar Hall",
+                    "2:30 p.m",
+                    "4:00 p.m"
+                ],
+                [
+                    "Thursday",
+                    "Seminar Hall",
+                    "2:30 p.m",
+                    "4:00 p.m"
+                ]
+            ],
+            "bds-2b": [
+                [
+                    "Tuesday",
+                    "CS-4",
+                    "11:30 a.m",
+                    "1:00 p.m"
+                ],
+                [
+                    "Thursday",
+                    "CS-4",
+                    "11:30 a.m",
+                    "1:00 p.m"
+                ]
+            ],
+            "bds-2a": [
+                [
+                    "Tuesday",
+                    "CE-2",
+                    "8:30 a.m",
+                    "10:00 a.m"
+                ],
+                [
+                    "Thursday",
+                    "CE-2",
+                    "8:30 a.m",
+                    "10:00 a.m"
+                ]
+            ],
+            "bcs-2d": [
+                [
+                    "Wednesday",
+                    "CS-15",
+                    "11:30 a.m",
+                    "1:00 p.m"
+                ],
+                [
+                    "Friday",
+                    "CS-16",
+                    "11:30 a.m",
+                    "1:00 p.m"
+                ]
+            ],
+            "bcs-2j": [
+                [
+                    "Wednesday",
+                    "Lab(CS-3)",
+                    "10:00 a.m",
+                    "11:30 a.m"
+                ],
+                [
+                    "Friday",
+                    "CS-16",
+                    "10:00 a.m",
+                    "11:30 a.m"
+                ]
+            ]
+        },
+        "int to data sceince": {
+            "bds-4e": [
+                [
+                    "Monday",
+                    "CS-15",
+                    "10:00 a.m",
+                    "11:30 a.m"
+                ],
+                [
+                    "Wednesday",
+                    "E&M-5",
+                    "10:00 a.m",
+                    "11:30 a.m"
+                ]
+            ]
+        },
+        "pakistan studies": {
+            "bcs-2b": [
+                [
+                    "Monday",
+                    "CS-15",
+                    "2:30 p.m",
+                    "4:00 p.m"
+                ],
+                [
+                    "Wednesday",
+                    "CS-15",
+                    "2:30 p.m",
+                    "4:00 p.m"
+                ]
+            ],
+            "bcs-2a": [
+                [
+                    "Monday",
+                    "E&M-2",
+                    "2:30 p.m",
+                    "4:00 p.m"
+                ],
+                [
+                    "Wednesday",
+                    "E&M-2",
+                    "2:30 p.m",
+                    "4:00 p.m"
+                ]
+            ],
+            "bcs-2d": [
+                [
+                    "Monday",
+                    "E&M-2",
+                    "4:00 p.m",
+                    "5:30 p.m"
+                ],
+                [
+                    "Wednesday",
+                    "E&M-2",
+                    "4:00 p.m",
+                    "5:30 p.m"
+                ]
+            ],
+            "bcs-2e": [
+                [
+                    "Monday",
+                    "CE-3",
+                    "2:30 p.m",
+                    "4:00 p.m"
+                ],
+                [
+                    "Wednesday",
+                    "CE-3",
+                    "2:30 p.m",
+                    "4:00 p.m"
+                ]
+            ],
+            "bcs-2f": [
+                [
+                    "Tuesday",
+                    "E&M-1",
+                    "4:00 p.m",
+                    "5:30 p.m"
+                ],
+                [
+                    "Thursday",
+                    "E&M-1",
+                    "4:00 p.m",
+                    "5:30 p.m"
+                ]
+            ],
+            "bcs-2c": [
+                [
+                    "Tuesday",
+                    "E&M-5",
+                    "10:00 a.m",
+                    "11:30 a.m"
+                ],
+                [
+                    "Thursday",
+                    "E&M-5",
+                    "10:00 a.m",
+                    "11:30 a.m"
+                ]
+            ]
+        },
+        "foreign policy of pak": {
+            "bcs-8a": [
+                [
+                    "Monday",
+                    "CS-15",
+                    "4:00 p.m",
+                    "5:30 p.m"
+                ],
+                [
+                    "Wednesday",
+                    "CS-15",
+                    "4:00 p.m",
+                    "5:30 p.m"
+                ]
+            ]
+        },
+        "environmental studies": {
+            "bds-4a": [
+                [
+                    "Monday",
+                    "CS-16",
+                    "2:30 p.m",
+                    "4:00 p.m"
+                ],
+                [
+                    "Wednesday",
+                    "CS-16",
+                    "2:30 p.m",
+                    "4:00 p.m"
+                ]
+            ],
+            "bcs-4a": [
+                [
+                    "Tuesday",
+                    "CS-8",
+                    "10:00 a.m",
+                    "11:30 a.m"
+                ],
+                [
+                    "Thursday",
+                    "CS-8",
+                    "10:00 a.m",
+                    "11:30 a.m"
+                ]
+            ]
+        },
+        "international relations": {
+            "bse-4a": [
+                [
+                    "Monday",
+                    "CS-16",
+                    "4:00 p.m",
+                    "5:30 p.m"
+                ],
+                [
+                    "Wednesday",
+                    "CS-16",
+                    "4:00 p.m",
+                    "5:30 p.m"
+                ]
+            ]
+        },
+        "parallel & dist computing": {
+            "bcs-8a": [
+                [
+                    "Monday",
+                    "Lib",
+                    "8:30 a.m",
+                    "10:00 a.m"
+                ],
+                [
+                    "Friday",
+                    "CS-16",
+                    "8:30 a.m",
+                    "10:00 a.m"
+                ]
+            ],
+            "bcs-6e": [
+                [
+                    "Monday",
+                    "CS-8",
+                    "8:30 a.m",
+                    "10:00 a.m"
+                ],
+                [
+                    "Wednesday",
+                    "CS-8",
+                    "8:30 a.m",
+                    "10:00 a.m"
+                ]
+            ],
+            "bcs-6f": [
+                [
+                    "Monday",
+                    "CS-8",
+                    "10:00 a.m",
+                    "11:30 a.m"
+                ],
+                [
+                    "Wednesday",
+                    "CS-8",
+                    "10:00 a.m",
+                    "11:30 a.m"
+                ]
+            ],
+            "bcs-6a": [
+                [
+                    "Tuesday",
+                    "CS-10",
+                    "10:00 a.m",
+                    "11:30 a.m"
+                ],
+                [
+                    "Thursday",
+                    "CS-10",
+                    "10:00 a.m",
+                    "11:30 a.m"
+                ]
+            ],
+            "bds-6a": [
+                [
+                    "Tuesday",
+                    "CS-10",
+                    "11:30 a.m",
+                    "1:00 p.m"
+                ],
+                [
+                    "Thursday",
+                    "CS-10",
+                    "11:30 a.m",
+                    "1:00 p.m"
+                ]
+            ],
+            "bcs-6b": [
+                [
+                    "Tuesday",
+                    "CS-10",
+                    "1:00 p.m",
+                    "2:30 p.m"
+                ],
+                [
+                    "Thursday",
+                    "CS-10",
+                    "1:00 p.m",
+                    "2:30 p.m"
+                ]
+            ],
+            "bcs-6c": [
+                [
+                    "Tuesday",
+                    "Lib",
+                    "8:30 a.m",
+                    "10:00 a.m"
+                ],
+                [
+                    "Thursday",
+                    "Lib",
+                    "8:30 a.m",
+                    "10:00 a.m"
+                ]
+            ],
+            "bcs-6d": [
+                [
+                    "Tuesday",
+                    "Lib",
+                    "10:00 a.m",
+                    "11:30 a.m"
+                ],
+                [
+                    "Thursday",
+                    "Lib",
+                    "10:00 a.m",
+                    "11:30 a.m"
+                ]
+            ]
+        },
+        "blockchain and cryptocurrency": {
+            "bcs-8a": [
+                [
+                    "Monday",
+                    "Lib",
+                    "2:30 p.m",
+                    "4:00 p.m"
+                ],
+                [
+                    "Friday",
+                    "Lib",
+                    "2:30 p.m",
+                    "4:00 p.m"
+                ]
+            ],
+            "bcs-8b": [
+                [
+                    "Monday",
+                    "Lib",
+                    "4:00 p.m",
+                    "5:30 p.m"
+                ],
+                [
+                    "Friday",
+                    "Lib",
+                    "4:00 p.m",
+                    "5:30 p.m"
+                ]
+            ]
+        },
+        "mass communication": {
+            "bcs-8a": [
+                [
+                    "Monday",
+                    "E&M-1",
+                    "10:00 a.m",
+                    "11:30 a.m"
+                ],
+                [
+                    "Wednesday",
+                    "Lab(CS-2B)",
+                    "10:00 a.m",
+                    "11:30 a.m"
+                ]
+            ],
+            "bcs-4a": [
+                [
+                    "Monday",
+                    "CS-1",
+                    "8:30 a.m",
+                    "10:00 a.m"
+                ],
+                [
+                    "Wednesday",
+                    "CS-1",
+                    "8:30 a.m",
+                    "10:00 a.m"
+                ]
+            ]
+        },
+        "software design & analysis": {
+            "bcs-6a": [
+                [
+                    "Monday",
+                    "E&M-1",
+                    "11:30 a.m",
+                    "1:00 p.m"
+                ],
+                [
+                    "Wednesday",
+                    "CE-3",
+                    "11:30 a.m",
+                    "1:00 p.m"
+                ]
+            ]
+        },
+        "com & presentation skills": {
+            "bcs-2j": [
+                [
+                    "Monday",
+                    "E&M-1",
+                    "2:30 p.m",
+                    "4:30 p.m"
+                ]
+            ],
+            "bcs-2c": [
+                [
+                    "Monday",
+                    "CE-1",
+                    "2:30 p.m",
+                    "4:30 p.m"
+                ]
+            ],
+            "bcs-2d": [
+                [
+                    "Monday",
+                    "CE-2",
+                    "11:30 a.m",
+                    "1:30 p.m"
+                ]
+            ],
+            "bcs-2f": [
+                [
+                    "Monday",
+                    "CE-3",
+                    "11:30 a.m",
+                    "1:30 p.m"
+                ]
+            ],
+            "bcs-2a": [
+                [
+                    "Tuesday",
+                    "CS-15",
+                    "11:30 a.m",
+                    "1:30 p.m"
+                ]
+            ],
+            "bcs-2g": [
+                [
+                    "Tuesday",
+                    "CE-3",
+                    "1:00 p.m",
+                    "3:00 p.m"
+                ]
+            ],
+            "bds-2a": [
+                [
+                    "Wednesday",
+                    "E&M-1",
+                    "2:30 p.m",
+                    "4:30 p.m"
+                ]
+            ],
+            "bse-2b": [
+                [
+                    "Wednesday",
+                    "E&M-2",
+                    "11:30 a.m",
+                    "1:30 p.m"
+                ]
+            ],
+            "bcs-2e": [
+                [
+                    "Wednesday",
+                    "CE-2",
+                    "11:30 a.m",
+                    "1:30 p.m"
+                ]
+            ],
+            "bcs-2h": [
+                [
+                    "Wednesday",
+                    "CE-2",
+                    "2:30 p.m",
+                    "4:30 p.m"
+                ]
+            ],
+            "bse-2c": [
+                [
+                    "Thursday",
+                    "Lib",
+                    "11:30 a.m",
+                    "1:30 p.m"
+                ]
+            ],
+            "bcs-2b": [
+                [
+                    "Thursday",
+                    "CE-1",
+                    "11:30 a.m",
+                    "1:30 p.m"
+                ]
+            ],
+            "bds-2b": [
+                [
+                    "Friday",
+                    "E&M-5",
+                    "11:00 a.m",
+                    "1:00 p.m"
+                ]
+            ],
+            "bse-2a": [
+                [
+                    "Friday",
+                    "CS-8",
+                    "2:30 p.m",
+                    "4:30 p.m"
+                ]
+            ]
+        },
+        "islamic studies/ethics": {
+            "bse-2a": [
+                [
+                    "Monday",
+                    "E&M-2",
+                    "8:30 a.m",
+                    "10:00 a.m"
+                ],
+                [
+                    "Wednesday",
+                    "E&M-2",
+                    "8:30 a.m",
+                    "10:00 a.m"
+                ]
+            ],
+            "bse-2b": [
+                [
+                    "Monday",
+                    "E&M-2",
+                    "10:00 a.m",
+                    "11:30 a.m"
+                ],
+                [
+                    "Wednesday",
+                    "E&M-2",
+                    "10:00 a.m",
+                    "11:30 a.m"
+                ]
+            ],
+            "bcs-2g": [
+                [
+                    "Monday",
+                    "CE-1",
+                    "8:30 a.m",
+                    "10:00 a.m"
+                ],
+                [
+                    "Wednesday",
+                    "CE-1",
+                    "8:30 a.m",
+                    "10:00 a.m"
+                ]
+            ],
+            "bcs-2h": [
+                [
+                    "Monday",
+                    "CE-1",
+                    "10:00 a.m",
+                    "11:30 a.m"
+                ],
+                [
+                    "Wednesday",
+                    "CE-1",
+                    "10:00 a.m",
+                    "11:30 a.m"
+                ]
+            ],
+            "bds-2a": [
+                [
+                    "Monday",
+                    "CE-2",
+                    "8:30 a.m",
+                    "10:00 a.m"
+                ],
+                [
+                    "Wednesday",
+                    "Lab(CS-1)",
+                    "8:30 a.m",
+                    "10:00 a.m"
+                ]
+            ],
+            "bds-2b": [
+                [
+                    "Monday",
+                    "CE-2",
+                    "10:00 a.m",
+                    "11:30 a.m"
+                ],
+                [
+                    "Wednesday",
+                    "Lab(CS-1)",
+                    "10:00 a.m",
+                    "11:30 a.m"
+                ]
+            ],
+            "bse-2c": [
+                [
+                    "Monday",
+                    "CE-3",
+                    "8:30 a.m",
+                    "10:00 a.m"
+                ],
+                [
+                    "Wednesday",
+                    "CE-3",
+                    "8:30 a.m",
+                    "10:00 a.m"
+                ]
+            ],
+            "bcs-2j": [
+                [
+                    "Tuesday",
+                    "CE-1",
+                    "8:30 a.m",
+                    "10:00 a.m"
+                ],
+                [
+                    "Thursday",
+                    "CE-1",
+                    "8:30 a.m",
+                    "10:00 a.m"
+                ]
+            ]
+        },
+        "design & analysis of algo": {
+            "bcs-4c": [
+                [
+                    "Monday",
+                    "E&M-3",
+                    "10:00 a.m",
+                    "11:30 a.m"
+                ],
+                [
+                    "Wednesday",
+                    "E&M-3",
+                    "10:00 a.m",
+                    "11:30 a.m"
+                ]
+            ],
+            "bcs-4d": [
+                [
+                    "Monday",
+                    "E&M-3",
+                    "11:30 a.m",
+                    "1:00 p.m"
+                ],
+                [
+                    "Wednesday",
+                    "E&M-3",
+                    "11:30 a.m",
+                    "1:00 p.m"
+                ]
+            ],
+            "bcs-4a": [
+                [
+                    "Monday",
+                    "CS-8",
+                    "1:00 p.m",
+                    "2:30 p.m"
+                ],
+                [
+                    "Wednesday",
+                    "CS-8",
+                    "1:00 p.m",
+                    "2:30 p.m"
+                ]
+            ],
+            "bcs-4b": [
+                [
+                    "Tuesday",
+                    "CS-11",
+                    "10:00 a.m",
+                    "11:30 a.m"
+                ],
+                [
+                    "Thursday",
+                    "CS-11",
+                    "10:00 a.m",
+                    "11:30 a.m"
+                ]
+            ],
+            "bse-6a": [
+                [
+                    "Tuesday",
+                    "CS-15",
+                    "10:00 a.m",
+                    "11:30 a.m"
+                ],
+                [
+                    "Thursday",
+                    "CS-15",
+                    "10:00 a.m",
+                    "11:30 a.m"
+                ]
+            ],
+            "bcs-4e": [
+                [
+                    "Tuesday",
+                    "E&M-3",
+                    "11:30 a.m",
+                    "1:00 p.m"
+                ],
+                [
+                    "Thursday",
+                    "E&M-3",
+                    "11:30 a.m",
+                    "1:00 p.m"
+                ]
+            ],
+            "bcs-6a": [
+                [
+                    "Tuesday",
+                    "E&M-3",
+                    "1:00 p.m",
+                    "2:30 p.m"
+                ],
+                [
+                    "Thursday",
+                    "E&M-3",
+                    "1:00 p.m",
+                    "2:30 p.m"
+                ]
+            ],
+            "bcs-4f": [
+                [
+                    "Tuesday",
+                    "E&M-3",
+                    "2:30 p.m",
+                    "4:00 p.m"
+                ],
+                [
+                    "Thursday",
+                    "E&M-3",
+                    "2:30 p.m",
+                    "4:00 p.m"
+                ]
+            ],
+            "bcs-4j": [
+                [
+                    "Tuesday",
+                    "E&M-4",
+                    "4:00 p.m",
+                    "5:30 p.m"
+                ],
+                [
+                    "Thursday",
+                    "E&M-4",
+                    "4:00 p.m",
+                    "5:30 p.m"
+                ]
+            ],
+            "bcs-4h": [
+                [
+                    "Tuesday",
+                    "E&M-5",
+                    "11:30 a.m",
+                    "1:00 p.m"
+                ],
+                [
+                    "Thursday",
+                    "E&M-5",
+                    "11:30 a.m",
+                    "1:00 p.m"
+                ]
+            ],
+            "bcs-4g": [
+                [
+                    "Tuesday",
+                    "E&M-5",
+                    "1:00 p.m",
+                    "2:30 p.m"
+                ],
+                [
+                    "Thursday",
+                    "E&M-5",
+                    "1:00 p.m",
+                    "2:30 p.m"
+                ]
+            ],
+            "bse-6b": [
+                [
+                    "Tuesday",
+                    "CS-8",
+                    "11:30 a.m",
+                    "1:00 p.m"
+                ],
+                [
+                    "Thursday",
+                    "CS-8",
+                    "11:30 a.m",
+                    "1:00 p.m"
+                ]
+            ]
+        },
+        "f. of big data analytics": {
+            "bds-4b": [
+                [
+                    "Monday",
+                    "E&M-3",
+                    "1:00 p.m",
+                    "2:30 p.m"
+                ],
+                [
+                    "Wednesday",
+                    "E&M-3",
+                    "1:00 p.m",
+                    "2:30 p.m"
+                ]
+            ],
+            "bds-4a": [
+                [
+                    "Monday",
+                    "E&M-4",
+                    "11:30 a.m",
+                    "1:00 p.m"
+                ],
+                [
+                    "Wednesday",
+                    "E&M-4",
+                    "11:30 a.m",
+                    "1:00 p.m"
+                ]
+            ],
+            "bds-4c": [
+                [
+                    "Tuesday",
+                    "CE-1",
+                    "10:00 a.m",
+                    "11:30 a.m"
+                ],
+                [
+                    "Thursday",
+                    "CE-1",
+                    "10:00 a.m",
+                    "11:30 a.m"
+                ]
+            ]
+        },
+        "principles of leadership": {
+            "bcs-4b": [
+                [
+                    "Monday",
+                    "E&M-3",
+                    "2:30 p.m",
+                    "4:00 p.m"
+                ],
+                [
+                    "Wednesday",
+                    "E&M-3",
+                    "2:30 p.m",
+                    "4:00 p.m"
+                ]
+            ],
+            "bcs-4a": [
+                [
+                    "Tuesday",
+                    "CS-7",
+                    "8:30 a.m",
+                    "10:00 a.m"
+                ],
+                [
+                    "Thursday",
+                    "CS-7",
+                    "8:30 a.m",
+                    "10:00 a.m"
+                ]
+            ]
+        },
+        "operations research": {
+            "bcs-6a": [
+                [
+                    "Monday",
+                    "E&M-4",
+                    "1:00 p.m",
+                    "2:30 p.m"
+                ],
+                [
+                    "Wednesday",
+                    "Lib",
+                    "1:00 p.m",
+                    "2:30 p.m"
+                ]
+            ],
+            "bcs-6b": [
+                [
+                    "Monday",
+                    "E&M-4",
+                    "2:30 p.m",
+                    "4:00 p.m"
+                ],
+                [
+                    "Wednesday",
+                    "Lib",
+                    "2:30 p.m",
+                    "4:00 p.m"
+                ]
+            ],
+            "bcs-6f": [
+                [
+                    "Tuesday",
+                    "CS-16",
+                    "2:30 p.m",
+                    "4:00 p.m"
+                ],
+                [
+                    "Thursday",
+                    "CS-16",
+                    "2:30 p.m",
+                    "4:00 p.m"
+                ]
+            ],
+            "bcs-6c": [
+                [
+                    "Tuesday",
+                    "E&M-2",
+                    "2:30 p.m",
+                    "4:00 p.m"
+                ],
+                [
+                    "Thursday",
+                    "E&M-2",
+                    "2:30 p.m",
+                    "4:00 p.m"
+                ]
+            ],
+            "bcs-6d": [
+                [
+                    "Tuesday",
+                    "E&M-2",
+                    "4:00 p.m",
+                    "5:30 p.m"
+                ],
+                [
+                    "Thursday",
+                    "E&M-2",
+                    "4:00 p.m",
+                    "5:30 p.m"
+                ]
+            ],
+            "bcs-6e": [
+                [
+                    "Tuesday",
+                    "Lab(CS-3)",
+                    "1:00 p.m",
+                    "2:30 p.m"
+                ],
+                [
+                    "Thursday",
+                    "CE-3",
+                    "1:00 p.m",
+                    "2:30 p.m"
+                ]
+            ]
+        },
+        "sociology": {
+            "bcs-4a": [
+                [
+                    "Monday",
+                    "E&M-4",
+                    "4:00 p.m",
+                    "5:30 p.m"
+                ],
+                [
+                    "Wednesday",
+                    "E&M-4",
+                    "4:00 p.m",
+                    "5:30 p.m"
+                ]
+            ]
+        },
+        "organizational behaviour": {
+            "bcs-4a": [
+                [
+                    "Monday",
+                    "E&M-11",
+                    "10:00 a.m",
+                    "11:30 a.m"
+                ],
+                [
+                    "Wednesday",
+                    "E&M-11",
+                    "10:00 a.m",
+                    "11:30 a.m"
+                ]
+            ]
+        },
+        "entrepreneurship": {
+            "bds-6a": [
+                [
+                    "Monday",
+                    "E&M-11",
+                    "4:00 p.m",
+                    "5:30 p.m"
+                ],
+                [
+                    "Wednesday",
+                    "E&M-11",
+                    "4:00 p.m",
+                    "5:30 p.m"
+                ]
+            ],
+            "bcs-8a": [
+                [
+                    "Tuesday",
+                    "E&M-17",
+                    "1:00 p.m",
+                    "2:30 p.m"
+                ],
+                [
+                    "Thursday",
+                    "E&M-17",
+                    "1:00 p.m",
+                    "2:30 p.m"
+                ]
+            ]
+        },
+        "entreprenurship": {
+            "bds-4a": [
+                [
+                    "Monday",
+                    "CE-1",
+                    "1:00 p.m",
+                    "2:30 p.m"
+                ],
+                [
+                    "Wednesday",
+                    "CE-1",
+                    "1:00 p.m",
+                    "2:30 p.m"
+                ]
+            ]
+        },
+        "american history": {
+            "bcs-8a": [
+                [
+                    "Monday",
+                    "CE-2",
+                    "2:30 p.m",
+                    "4:00 p.m"
+                ],
+                [
+                    "Wednesday",
+                    "E&M-4",
+                    "2:30 p.m",
+                    "4:00 p.m"
+                ]
+            ]
+        },
+        "advanced theroy of computation": {
+            "mcs-2a": [
+                [
+                    "Monday",
+                    "CS-8",
+                    "2:30 p.m",
+                    "5:30 p.m"
+                ]
+            ]
+        },
+        "research methodology": {
+            "mds-2a": [
+                [
+                    "Monday",
+                    "E&M-16",
+                    "8:30 a.m",
+                    "11:30 a.m"
+                ]
+            ],
+            "msp-2a": [
+                [
+                    "Tuesday",
+                    "CS-2",
+                    "5:30 p.m",
+                    "8:30 p.m"
+                ]
+            ],
+            "mcs-2a": [
+                [
+                    "Tuesday",
+                    "CE-1",
+                    "11:30 a.m",
+                    "1:00 p.m"
+                ],
+                [
+                    "Thursday",
+                    "E&M-4",
+                    "11:30 a.m",
+                    "1:00 p.m"
+                ]
+            ]
+        },
+        "deep learning": {
+            "mds-2a": [
+                [
+                    "Monday",
+                    "E&M-16",
+                    "11:30 a.m",
+                    "2:30 p.m"
+                ]
+            ]
+        },
+        "intro to cloud computing": {
+            "bcs-8a": [
+                [
+                    "Monday",
+                    "E&M-16",
+                    "2:30 p.m",
+                    "4:00 p.m"
+                ],
+                [
+                    "Friday",
+                    "CS-1",
+                    "2:30 p.m",
+                    "4:00 p.m"
+                ]
+            ],
+            "bcs-6a": [
+                [
+                    "Tuesday",
+                    "CS-10",
+                    "2:30 p.m",
+                    "4:00 p.m"
+                ],
+                [
+                    "Thursday",
+                    "CS-10",
+                    "2:30 p.m",
+                    "4:00 p.m"
+                ]
+            ],
+            "bcs-8b": [
+                [
+                    "Tuesday",
+                    "CS-11",
+                    "8:30 a.m",
+                    "10:00 a.m"
+                ],
+                [
+                    "Thursday",
+                    "CS-11",
+                    "8:30 a.m",
+                    "10:00 a.m"
+                ]
+            ]
+        },
+        "com & pres skills lab": {
+            "bse-2c1": [
+                [
+                    "Monday",
+                    "English Lab-1",
+                    "11:30 a.m",
+                    "1:00 p.m"
+                ],
+                [
+                    "Wednesday",
+                    "English Lab-1",
+                    "11:30 a.m",
+                    "1:00 p.m"
+                ]
+            ],
+            "bse-2a1": [
+                [
+                    "Monday",
+                    "English Lab-1",
+                    "1:00 p.m",
+                    "2:30 p.m"
+                ],
+                [
+                    "Wednesday",
+                    "English Lab-1",
+                    "1:00 p.m",
+                    "2:30 p.m"
+                ]
+            ],
+            "bds-2b1": [
+                [
+                    "Monday",
+                    "English Lab-1",
+                    "2:30 p.m",
+                    "4:00 p.m"
+                ],
+                [
+                    "Wednesday",
+                    "English Lab-1",
+                    "2:30 p.m",
+                    "4:00 p.m"
+                ]
+            ],
+            "bcs-2c1": [
+                [
+                    "Monday",
+                    "English Lab-1",
+                    "4:30 p.m",
+                    "6:00 p.m"
+                ],
+                [
+                    "Wednesday",
+                    "English Lab-1",
+                    "4:00 p.m",
+                    "5:30 p.m"
+                ]
+            ],
+            "bse-2c2": [
+                [
+                    "Monday",
+                    "English Lab-2",
+                    "11:30 a.m",
+                    "1:00 p.m"
+                ],
+                [
+                    "Wednesday",
+                    "English Lab-2",
+                    "11:30 a.m",
+                    "1:00 p.m"
+                ]
+            ],
+            "bse-2a2": [
+                [
+                    "Monday",
+                    "English Lab-2",
+                    "1:00 p.m",
+                    "2:30 p.m"
+                ],
+                [
+                    "Wednesday",
+                    "English Lab-2",
+                    "1:00 p.m",
+                    "2:30 p.m"
+                ]
+            ],
+            "bds-2b2": [
+                [
+                    "Monday",
+                    "English Lab-2",
+                    "2:30 p.m",
+                    "4:00 p.m"
+                ],
+                [
+                    "Wednesday",
+                    "English Lab-2",
+                    "2:30 p.m",
+                    "4:00 p.m"
+                ]
+            ],
+            "bcs-2c2": [
+                [
+                    "Monday",
+                    "English Lab-2",
+                    "4:30 p.m",
+                    "6:00 p.m"
+                ],
+                [
+                    "Wednesday",
+                    "English Lab-2",
+                    "4:00 p.m",
+                    "5:30 p.m"
+                ]
+            ],
+            "bcs-2d1": [
+                [
+                    "Monday",
+                    "English Lab-3",
+                    "10:00 a.m",
+                    "11:30 a.m"
+                ],
+                [
+                    "Wednesday",
+                    "English Lab-3",
+                    "10:00 a.m",
+                    "11:30 a.m"
+                ]
+            ],
+            "bcs-2d2": [
+                [
+                    "Monday",
+                    "English Lab-4",
+                    "10:00 a.m",
+                    "11:30 a.m"
+                ],
+                [
+                    "Wednesday",
+                    "English Lab-4",
+                    "10:00 a.m",
+                    "11:30 a.m"
+                ]
+            ],
+            "bcs-2g1": [
+                [
+                    "Tuesday",
+                    "English Lab-1",
+                    "8:30 a.m",
+                    "10:00 a.m"
+                ],
+                [
+                    "Thursday",
+                    "English Lab-1",
+                    "8:30 a.m",
+                    "10:00 a.m"
+                ]
+            ],
+            "bcs-2b1": [
+                [
+                    "Tuesday",
+                    "English Lab-1",
+                    "10:00 a.m",
+                    "11:30 a.m"
+                ],
+                [
+                    "Thursday",
+                    "English Lab-1",
+                    "10:00 a.m",
+                    "11:30 a.m"
+                ]
+            ],
+            "bcs-2j1": [
+                [
+                    "Tuesday",
+                    "English Lab-1",
+                    "11:30 a.m",
+                    "1:00 p.m"
+                ],
+                [
+                    "Thursday",
+                    "English Lab-1",
+                    "11:30 a.m",
+                    "1:00 p.m"
+                ]
+            ],
+            "bds-2a1": [
+                [
+                    "Tuesday",
+                    "English Lab-1",
+                    "2:30 p.m",
+                    "4:00 p.m"
+                ],
+                [
+                    "Thursday",
+                    "English Lab-1",
+                    "2:30 p.m",
+                    "4:00 p.m"
+                ]
+            ],
+            "bcs-2g2": [
+                [
+                    "Tuesday",
+                    "English Lab-2",
+                    "8:30 a.m",
+                    "10:00 a.m"
+                ],
+                [
+                    "Thursday",
+                    "English Lab-2",
+                    "8:30 a.m",
+                    "10:00 a.m"
+                ]
+            ],
+            "bcs-2b2": [
+                [
+                    "Tuesday",
+                    "English Lab-2",
+                    "10:00 a.m",
+                    "11:30 a.m"
+                ],
+                [
+                    "Thursday",
+                    "English Lab-2",
+                    "10:00 a.m",
+                    "11:30 a.m"
+                ]
+            ],
+            "bcs-2j2": [
+                [
+                    "Tuesday",
+                    "English Lab-2",
+                    "11:30 a.m",
+                    "1:00 p.m"
+                ],
+                [
+                    "Thursday",
+                    "English Lab-2",
+                    "11:30 a.m",
+                    "1:00 p.m"
+                ]
+            ],
+            "bds-2a2": [
+                [
+                    "Tuesday",
+                    "English Lab-2",
+                    "2:30 p.m",
+                    "4:00 p.m"
+                ],
+                [
+                    "Thursday",
+                    "English Lab-2",
+                    "2:30 p.m",
+                    "4:00 p.m"
+                ]
+            ],
+            "bcs-2e1": [
+                [
+                    "Tuesday",
+                    "English Lab-3",
+                    "8:30 a.m",
+                    "10:00 a.m"
+                ],
+                [
+                    "Thursday",
+                    "English Lab-3",
+                    "8:30 a.m",
+                    "10:00 a.m"
+                ]
+            ],
+            "bcs-2a1": [
+                [
+                    "Tuesday",
+                    "English Lab-3",
+                    "10:00 a.m",
+                    "11:30 a.m"
+                ],
+                [
+                    "Thursday",
+                    "English Lab-3",
+                    "10:00 a.m",
+                    "11:30 a.m"
+                ]
+            ],
+            "bcs-2f1": [
+                [
+                    "Tuesday",
+                    "English Lab-3",
+                    "11:30 a.m",
+                    "1:00 p.m"
+                ],
+                [
+                    "Thursday",
+                    "English Lab-3",
+                    "11:30 a.m",
+                    "1:00 p.m"
+                ]
+            ],
+            "bse-2b1": [
+                [
+                    "Tuesday",
+                    "English Lab-3",
+                    "1:00 p.m",
+                    "2:30 p.m"
+                ],
+                [
+                    "Thursday",
+                    "English Lab-3",
+                    "1:00 p.m",
+                    "2:30 p.m"
+                ]
+            ],
+            "bcs-2h1": [
+                [
+                    "Tuesday",
+                    "English Lab-3",
+                    "2:30 p.m",
+                    "4:00 p.m"
+                ],
+                [
+                    "Thursday",
+                    "English Lab-3",
+                    "2:30 p.m",
+                    "4:00 p.m"
+                ]
+            ],
+            "bcs-2e2": [
+                [
+                    "Tuesday",
+                    "English Lab-4",
+                    "8:30 a.m",
+                    "10:00 a.m"
+                ],
+                [
+                    "Thursday",
+                    "English Lab-4",
+                    "8:30 a.m",
+                    "10:00 a.m"
+                ]
+            ],
+            "bcs-2a2": [
+                [
+                    "Tuesday",
+                    "English Lab-4",
+                    "10:00 a.m",
+                    "11:30 a.m"
+                ],
+                [
+                    "Thursday",
+                    "English Lab-4",
+                    "10:00 a.m",
+                    "11:30 a.m"
+                ]
+            ],
+            "bcs-2f2": [
+                [
+                    "Tuesday",
+                    "English Lab-4",
+                    "11:30 a.m",
+                    "1:00 p.m"
+                ],
+                [
+                    "Thursday",
+                    "English Lab-4",
+                    "11:30 a.m",
+                    "1:00 p.m"
+                ]
+            ],
+            "bse-2b2": [
+                [
+                    "Tuesday",
+                    "English Lab-4",
+                    "1:00 p.m",
+                    "2:30 p.m"
+                ],
+                [
+                    "Thursday",
+                    "English Lab-4",
+                    "1:00 p.m",
+                    "2:30 p.m"
+                ]
+            ],
+            "bcs-2h2": [
+                [
+                    "Tuesday",
+                    "English Lab-4",
+                    "2:30 p.m",
+                    "4:00 p.m"
+                ],
+                [
+                    "Thursday",
+                    "English Lab-4",
+                    "2:30 p.m",
+                    "4:00 p.m"
+                ]
+            ]
+        },
+        "object oriented programming lab": {
+            "bcs-2a": [
+                [
+                    "Monday",
+                    "Lab(CS-1)",
+                    "8:30 a.m",
+                    "11:30 a.m"
+                ]
+            ],
+            "bds-2a": [
+                [
+                    "Monday",
+                    "Lab(CS-1)",
+                    "2:30 p.m",
+                    "5:30 p.m"
+                ]
+            ],
+            "bcs-2c": [
+                [
+                    "Monday",
+                    "Lab(CS-2A)",
+                    "8:30 a.m",
+                    "11:30 a.m"
+                ]
+            ],
+            "bcs-2f": [
+                [
+                    "Tuesday",
+                    "Lab(CS-1)",
+                    "8:30 a.m",
+                    "11:30 a.m"
+                ]
+            ],
+            "bcs-2d": [
+                [
+                    "Tuesday",
+                    "Lab(CS-1)",
+                    "11:30 a.m",
+                    "2:30 p.m"
+                ]
+            ],
+            "bcs-2b": [
+                [
+                    "Tuesday",
+                    "Lab(CS-1)",
+                    "2:30 p.m",
+                    "5:30 p.m"
+                ]
+            ],
+            "bcs-2h": [
+                [
+                    "Tuesday",
+                    "Lab(CS-2A)",
+                    "8:30 a.m",
+                    "11:30 a.m"
+                ]
+            ],
+            "bcs-2e": [
+                [
+                    "Tuesday",
+                    "Lab(CS-2A)",
+                    "2:30 p.m",
+                    "5:30 p.m"
+                ]
+            ],
+            "bds-2b": [
+                [
+                    "Tuesday",
+                    "Lab(CS-2B)",
+                    "8:30 a.m",
+                    "11:30 a.m"
+                ]
+            ],
+            "bse-2b": [
+                [
+                    "Tuesday",
+                    "Lab(CS-4)",
+                    "8:30 a.m",
+                    "11:30 a.m"
+                ]
+            ],
+            "bcs-2j": [
+                [
+                    "Thursday",
+                    "Lab(CS-1)",
+                    "2:30 p.m",
+                    "5:30 p.m"
+                ]
+            ],
+            "bcs-2g": [
+                [
+                    "Thursday",
+                    "Lab(CS-2A)",
+                    "11:30 a.m",
+                    "2:30 p.m"
+                ]
+            ],
+            "bse-2c": [
+                [
+                    "Thursday",
+                    "Lab(CS-2B)",
+                    "8:30 a.m",
+                    "11:30 a.m"
+                ]
+            ],
+            "bds-2c": [
+                [
+                    "Friday",
+                    "Lab(CS-1)",
+                    "8:30 a.m",
+                    "11:30 a.m"
+                ]
+            ],
+            "bcs-4l": [
+                [
+                    "Friday",
+                    "Lab(CS-1)",
+                    "2:30 p.m",
+                    "5:30 p.m"
+                ]
+            ],
+            "bse-2a": [
+                [
+                    "Friday",
+                    "Lab(CS-2A)",
+                    "8:30 a.m",
+                    "11:30 a.m"
+                ]
+            ]
+        },
+        "data structures lab": {
+            "bds-4e": [
+                [
+                    "Monday",
+                    "Lab(CS-2A)",
+                    "11:30 a.m",
+                    "2:30 p.m"
+                ]
+            ],
+            "bse-4c": [
+                [
+                    "Monday",
+                    "Lab(CS-2B)",
+                    "8:30 a.m",
+                    "11:30 a.m"
+                ]
+            ],
+            "bcs-4l": [
+                [
+                    "Friday",
+                    "Lab(CS-2B)",
+                    "2:30 p.m",
+                    "5:30 p.m"
+                ]
+            ],
+            "bcs-4m": [
+                [
+                    "Friday",
+                    "Lab(CS-4)",
+                    "2:30 p.m",
+                    "5:30 p.m"
+                ]
+            ],
+            "bcs-4n": [
+                [
+                    "Saturday",
+                    "Lab(CS-2B)",
+                    "8:30 a.m",
+                    "11:30 a.m"
+                ]
+            ]
+        },
+        "database systems lab": {
+            "bcs-4d": [
+                [
+                    "Monday",
+                    "Lab(CS-2A)",
+                    "2:30 p.m",
+                    "5:30 p.m"
+                ]
+            ],
+            "bse-4a": [
+                [
+                    "Monday",
+                    "Lab(CS-4)",
+                    "8:30 a.m",
+                    "11:30 a.m"
+                ]
+            ],
+            "bcs-4e": [
+                [
+                    "Monday",
+                    "Lab(CS-6)",
+                    "8:30 a.m",
+                    "11:30 a.m"
+                ]
+            ],
+            "bcs-4f": [
+                [
+                    "Monday",
+                    "Lab(CS-8)",
+                    "8:30 a.m",
+                    "11:30 a.m"
+                ]
+            ],
+            "bcs-4a": [
+                [
+                    "Tuesday",
+                    "Lab(CS-2B)",
+                    "2:30 p.m",
+                    "5:30 p.m"
+                ]
+            ],
+            "bcs-4g": [
+                [
+                    "Tuesday",
+                    "Lab(CS-4)",
+                    "2:30 p.m",
+                    "5:30 p.m"
+                ]
+            ],
+            "bcs-4j": [
+                [
+                    "Tuesday",
+                    "Lab(CS-8)",
+                    "10:00 a.m",
+                    "1:00 p.m"
+                ]
+            ],
+            "bcs-4c": [
+                [
+                    "Thursday",
+                    "Lab(CS-1)",
+                    "8:30 a.m",
+                    "11:30 a.m"
+                ]
+            ],
+            "bcs-4h": [
+                [
+                    "Thursday",
+                    "Lab(CS-2A)",
+                    "8:30 a.m",
+                    "11:30 a.m"
+                ]
+            ],
+            "bds-4b": [
+                [
+                    "Thursday",
+                    "Lab(CS-6)",
+                    "8:30 a.m",
+                    "11:30 a.m"
+                ]
+            ],
+            "bds-4c": [
+                [
+                    "Thursday",
+                    "Lab(CS-6)",
+                    "11:30 a.m",
+                    "2:30 p.m"
+                ]
+            ],
+            "bds-4a": [
+                [
+                    "Thursday",
+                    "Lab(CS-8)",
+                    "8:30 a.m",
+                    "11:30 a.m"
+                ]
+            ],
+            "bcs-4b": [
+                [
+                    "Friday",
+                    "Lab(CS-3)",
+                    "8:30 a.m",
+                    "11:30 a.m"
+                ]
+            ],
+            "bse-4b": [
+                [
+                    "Friday",
+                    "Lab(CS-9)",
+                    "10:00 a.m",
+                    "1:00 p.m"
+                ]
+            ],
+            "bcs-6a": [
+                [
+                    "Saturday",
+                    "Lab(CS-1)",
+                    "8:30 a.m",
+                    "11:30 a.m"
+                ]
+            ]
+        },
+        "operating systems lab": {
+            "bcs-4e": [
+                [
+                    "Monday",
+                    "Lab(CS-2B)",
+                    "2:30 p.m",
+                    "5:30 p.m"
+                ]
+            ],
+            "bcs-4a": [
+                [
+                    "Tuesday",
+                    "Lab(CS-4)",
+                    "11:30 a.m",
+                    "2:30 p.m"
+                ]
+            ],
+            "bcs-4c": [
+                [
+                    "Tuesday",
+                    "Lab(CS-6)",
+                    "8:30 a.m",
+                    "11:30 a.m"
+                ]
+            ],
+            "bcs-4d": [
+                [
+                    "Tuesday",
+                    "Lab(CS-6)",
+                    "2:30 p.m",
+                    "5:30 p.m"
+                ]
+            ],
+            "bcs-4h": [
+                [
+                    "Tuesday",
+                    "Lab(CS-9)",
+                    "2:30 p.m",
+                    "5:30 p.m"
+                ]
+            ],
+            "bcs-4f": [
+                [
+                    "Wednesday",
+                    "Lab(CS-2A)",
+                    "8:30 a.m",
+                    "11:30 a.m"
+                ]
+            ],
+            "bds-6a": [
+                [
+                    "Wednesday",
+                    "Lab(CS-8)",
+                    "11:30 a.m",
+                    "2:30 p.m"
+                ]
+            ],
+            "bcs-4g": [
+                [
+                    "Thursday",
+                    "Lab(CS-2B)",
+                    "2:30 p.m",
+                    "5:30 p.m"
+                ]
+            ],
+            "bcs-4j": [
+                [
+                    "Thursday",
+                    "Lab(CS-4)",
+                    "10:00 a.m",
+                    "1:00 p.m"
+                ]
+            ],
+            "bcs-4b": [
+                [
+                    "Thursday",
+                    "Lab(CS-8)",
+                    "2:30 p.m",
+                    "5:30 p.m"
+                ]
+            ],
+            "bcs-6a": [
+                [
+                    "Friday",
+                    "Lab(CS-9)",
+                    "2:30 p.m",
+                    "5:30 p.m"
+                ]
+            ]
+        },
+        "programming fundamentals lab": {
+            "bse-2d": [
+                [
+                    "Monday",
+                    "Lab(CS-3)",
+                    "8:30 a.m",
+                    "11:30 a.m"
+                ]
+            ],
+            "bcs-2k": [
+                [
+                    "Friday",
+                    "Lab(CS-3)",
+                    "2:30 p.m",
+                    "5:30 p.m"
+                ]
+            ]
+        },
+        "digital logic design lab": {
+            "bcs-2b1": [
+                [
+                    "Monday",
+                    "Physics Lab",
+                    "8:30 a.m",
+                    "11:30 a.m"
+                ]
+            ],
+            "bds-2b1": [
+                [
+                    "Monday",
+                    "Physics Lab",
+                    "11:30 a.m",
+                    "2:30 p.m"
+                ]
+            ],
+            "bcs-2h1": [
+                [
+                    "Monday",
+                    "Physics Lab",
+                    "2:30 p.m",
+                    "5:30 p.m"
+                ]
+            ],
+            "bcs-2b2": [
+                [
+                    "Monday",
+                    "Micro Lab",
+                    "8:30 a.m",
+                    "11:30 a.m"
+                ],
+                [
+                    "Wednesday",
+                    "Physics Lab",
+                    "2:30 p.m",
+                    "5:30 p.m"
+                ]
+            ],
+            "bds-2b2": [
+                [
+                    "Monday",
+                    "Micro Lab",
+                    "11:30 a.m",
+                    "2:30 p.m"
+                ]
+            ],
+            "bcs-2c1": [
+                [
+                    "Tuesday",
+                    "Physics Lab",
+                    "8:30 a.m",
+                    "11:30 a.m"
+                ]
+            ],
+            "bds-2c1": [
+                [
+                    "Tuesday",
+                    "Physics Lab",
+                    "11:30 a.m",
+                    "2:30 p.m"
+                ]
+            ],
+            "bcs-2j1": [
+                [
+                    "Tuesday",
+                    "Physics Lab",
+                    "2:30 p.m",
+                    "5:30 p.m"
+                ]
+            ],
+            "bcs-2c2": [
+                [
+                    "Tuesday",
+                    "Micro Lab",
+                    "8:30 a.m",
+                    "11:30 a.m"
+                ]
+            ],
+            "bds-2c2": [
+                [
+                    "Tuesday",
+                    "Micro Lab",
+                    "11:30 a.m",
+                    "2:30 p.m"
+                ]
+            ],
+            "bcs-2j2": [
+                [
+                    "Tuesday",
+                    "Micro Lab",
+                    "2:30 p.m",
+                    "5:30 p.m"
+                ]
+            ],
+            "bcs-2a1": [
+                [
+                    "Wednesday",
+                    "Physics Lab",
+                    "8:30 a.m",
+                    "11:30 a.m"
+                ]
+            ],
+            "bds-2a1": [
+                [
+                    "Wednesday",
+                    "Physics Lab",
+                    "11:30 a.m",
+                    "2:30 p.m"
+                ]
+            ],
+            "bcs-2g1": [
+                [
+                    "Wednesday",
+                    "Physics Lab",
+                    "2:30 p.m",
+                    "5:30 p.m"
+                ]
+            ],
+            "bcs-2a2": [
+                [
+                    "Wednesday",
+                    "Micro Lab",
+                    "8:30 a.m",
+                    "11:30 a.m"
+                ]
+            ],
+            "bds-2a2": [
+                [
+                    "Wednesday",
+                    "Micro Lab",
+                    "11:30 a.m",
+                    "2:30 p.m"
+                ]
+            ],
+            "bcs-2g2": [
+                [
+                    "Wednesday",
+                    "Embedded Lab",
+                    "2:30 p.m",
+                    "5:30 p.m"
+                ]
+            ],
+            "bcs-2f1": [
+                [
+                    "Thursday",
+                    "Physics Lab",
+                    "8:30 a.m",
+                    "11:30 a.m"
+                ]
+            ],
+            "bcs-2d1": [
+                [
+                    "Thursday",
+                    "Physics Lab",
+                    "11:30 a.m",
+                    "2:30 p.m"
+                ]
+            ],
+            "bcs-2e1": [
+                [
+                    "Thursday",
+                    "Physics Lab",
+                    "2:30 p.m",
+                    "5:30 p.m"
+                ]
+            ],
+            "bcs-2f2": [
+                [
+                    "Thursday",
+                    "Micro Lab",
+                    "8:30 a.m",
+                    "11:30 a.m"
+                ]
+            ],
+            "bcs-2d2": [
+                [
+                    "Thursday",
+                    "Micro Lab",
+                    "11:30 a.m",
+                    "2:30 p.m"
+                ]
+            ],
+            "bcs-2e2": [
+                [
+                    "Thursday",
+                    "Micro Lab",
+                    "2:30 p.m",
+                    "5:30 p.m"
+                ]
+            ],
+            "bcs-2h2": [
+                [
+                    "Friday",
+                    "Physics Lab",
+                    "8:30 a.m",
+                    "11:30 a.m"
+                ]
+            ]
+        },
+        "advance database concepts": {
+            "bcs-8a": [
+                [
+                    "Tuesday",
+                    "CS-2",
+                    "11:30 a.m",
+                    "1:00 p.m"
+                ],
+                [
+                    "Thursday",
+                    "CS-2",
+                    "11:30 a.m",
+                    "1:00 p.m"
+                ]
+            ],
+            "bcs-6a": [
+                [
+                    "Tuesday",
+                    "CS-2",
+                    "2:30 p.m",
+                    "4:00 p.m"
+                ],
+                [
+                    "Thursday",
+                    "CS-2",
+                    "2:30 p.m",
+                    "4:00 p.m"
+                ]
+            ]
+        },
+        "machine learning for data science": {
+            "mds-2a": [
+                [
+                    "Tuesday",
+                    "CS-3",
+                    "8:30 a.m",
+                    "10:00 a.m"
+                ],
+                [
+                    "Thursday",
+                    "CS-3",
+                    "8:30 a.m",
+                    "10:00 a.m"
+                ]
+            ]
+        },
+        "natural language processing": {
+            "bcs-8a": [
+                [
+                    "Tuesday",
+                    "CS-3",
+                    "2:30 p.m",
+                    "4:00 p.m"
+                ],
+                [
+                    "Friday",
+                    "CS-3",
+                    "2:30 p.m",
+                    "4:00 p.m"
+                ]
+            ],
+            "bcs-8b": [
+                [
+                    "Tuesday",
+                    "CS-3",
+                    "4:00 p.m",
+                    "5:30 p.m"
+                ],
+                [
+                    "Friday",
+                    "CS-3",
+                    "4:00 p.m",
+                    "5:30 p.m"
+                ]
+            ],
+            "mds-2a": [
+                [
+                    "Thursday",
+                    "CS-5",
+                    "11:30 a.m",
+                    "2:30 p.m"
+                ]
+            ]
+        },
+        "advanced operating systems": {
+            "mcs-2a": [
+                [
+                    "Tuesday",
+                    "CS-4",
+                    "8:30 a.m",
+                    "11:30 a.m"
+                ]
+            ]
+        },
+        "data science": {
+            "bcs-8b": [
+                [
+                    "Tuesday",
+                    "CS-4",
+                    "2:30 p.m",
+                    "4:00 p.m"
+                ],
+                [
+                    "Thursday",
+                    "CS-4",
+                    "2:30 p.m",
+                    "4:00 p.m"
+                ]
+            ],
+            "bcs-8a": [
+                [
+                    "Tuesday",
+                    "CS-15",
+                    "8:30 a.m",
+                    "10:00 a.m"
+                ],
+                [
+                    "Thursday",
+                    "CS-15",
+                    "8:30 a.m",
+                    "10:00 a.m"
+                ]
+            ]
+        },
+        "programming fundamentals": {
+            "bse-2d": [
+                [
+                    "Tuesday",
+                    "CS-5",
+                    "8:30 a.m",
+                    "10:00 a.m"
+                ],
+                [
+                    "Thursday",
+                    "CS-5",
+                    "8:30 a.m",
+                    "10:00 a.m"
+                ]
+            ],
+            "bcs-2k": [
+                [
+                    "Tuesday",
+                    "CS-8",
+                    "2:30 p.m",
+                    "4:00 p.m"
+                ],
+                [
+                    "Thursday",
+                    "CS-8",
+                    "2:30 p.m",
+                    "4:00 p.m"
+                ]
+            ]
+        },
+        "psychology": {
+            "bcs-8b": [
+                [
+                    "Tuesday",
+                    "CS-5",
+                    "11:30 a.m",
+                    "1:00 p.m"
+                ],
+                [
+                    "Friday",
+                    "CS-15",
+                    "8:30 a.m",
+                    "10:00 a.m"
+                ]
+            ],
+            "bcs-8a": [
+                [
+                    "Tuesday",
+                    "CS-10",
+                    "8:30 a.m",
+                    "10:00 a.m"
+                ],
+                [
+                    "Friday",
+                    "CS-6",
+                    "11:30 a.m",
+                    "1:00 p.m"
+                ]
+            ],
+            "bcs-4a": [
+                [
+                    "Tuesday",
+                    "E&M-11",
+                    "10:00 a.m",
+                    "11:30 a.m"
+                ],
+                [
+                    "Thursday",
+                    "E&M-11",
+                    "10:00 a.m",
+                    "11:30 a.m"
+                ]
+            ]
+        },
+        "digital image processing": {
+            "bcs-6a": [
+                [
+                    "Tuesday",
+                    "CS-6",
+                    "8:30 a.m",
+                    "10:00 a.m"
+                ],
+                [
+                    "Thursday",
+                    "CS-6",
+                    "8:30 a.m",
+                    "10:00 a.m"
+                ]
+            ],
+            "bcs-6b": [
+                [
+                    "Tuesday",
+                    "CS-6",
+                    "10:00 a.m",
+                    "11:30 a.m"
+                ],
+                [
+                    "Thursday",
+                    "CS-6",
+                    "10:00 a.m",
+                    "11:30 a.m"
+                ]
+            ]
+        },
+        "adavcned analysis of algorithms": {
+            "mcs-2a": [
+                [
+                    "Tuesday",
+                    "CS-9",
+                    "1:00 p.m",
+                    "4:00 p.m"
+                ]
+            ]
+        },
+        "accounting and finance": {
+            "bds-4a": [
+                [
+                    "Tuesday",
+                    "CS-9",
+                    "4:00 p.m",
+                    "5:30 p.m"
+                ],
+                [
+                    "Thursday",
+                    "CS-9",
+                    "4:00 p.m",
+                    "5:30 p.m"
+                ]
+            ]
+        },
+        "compiler construction": {
+            "bcs-6a": [
+                [
+                    "Tuesday",
+                    "CS-11",
+                    "4:00 p.m",
+                    "5:30 p.m"
+                ],
+                [
+                    "Thursday",
+                    "CS-11",
+                    "4:00 p.m",
+                    "5:30 p.m"
+                ]
+            ],
+            "bcs-8a": [
+                [
+                    "Tuesday",
+                    "E&M-2",
+                    "1:00 p.m",
+                    "2:30 p.m"
+                ],
+                [
+                    "Thursday",
+                    "E&M-2",
+                    "1:00 p.m",
+                    "2:30 p.m"
+                ]
+            ]
+        },
+        "international business": {
+            "bcs-8a": [
+                [
+                    "Tuesday",
+                    "CS-15",
+                    "2:30 p.m",
+                    "4:00 p.m"
+                ],
+                [
+                    "Thursday",
+                    "CS-15",
+                    "2:30 p.m",
+                    "4:00 p.m"
+                ]
+            ]
+        },
+        "software design and architecture": {
+            "bse-4c": [
+                [
+                    "Tuesday",
+                    "CS-16",
+                    "8:30 a.m",
+                    "10:00 a.m"
+                ],
+                [
+                    "Thursday",
+                    "CS-16",
+                    "8:30 a.m",
+                    "10:00 a.m"
+                ]
+            ],
+            "bse-4b": [
+                [
+                    "Wednesday",
+                    "Seminar Hall",
+                    "8:30 a.m",
+                    "10:00 a.m"
+                ],
+                [
+                    "Friday",
+                    "Seminar Hall",
+                    "8:30 a.m",
+                    "10:00 a.m"
+                ]
+            ],
+            "bse-4a": [
+                [
+                    "Wednesday",
+                    "Seminar Hall",
+                    "10:00 a.m",
+                    "11:30 a.m"
+                ],
+                [
+                    "Friday",
+                    "Seminar Hall",
+                    "10:00 a.m",
+                    "11:30 a.m"
+                ]
+            ]
+        },
+        "computer networks": {
+            "bcs-6c": [
+                [
+                    "Tuesday",
+                    "CS-16",
+                    "1:00 p.m",
+                    "2:30 p.m"
+                ],
+                [
+                    "Thursday",
+                    "CS-16",
+                    "1:00 p.m",
+                    "2:30 p.m"
+                ]
+            ],
+            "bcs-6b": [
+                [
+                    "Tuesday",
+                    "CS-1",
+                    "10:00 a.m",
+                    "11:30 a.m"
+                ],
+                [
+                    "Thursday",
+                    "CS-1",
+                    "10:00 a.m",
+                    "11:30 a.m"
+                ]
+            ],
+            "bcs-6a": [
+                [
+                    "Tuesday",
+                    "CS-1",
+                    "11:30 a.m",
+                    "1:00 p.m"
+                ],
+                [
+                    "Thursday",
+                    "CS-1",
+                    "11:30 a.m",
+                    "1:00 p.m"
+                ]
+            ],
+            "bse-6b": [
+                [
+                    "Wednesday",
+                    "CS-10",
+                    "8:30 a.m",
+                    "10:00 a.m"
+                ],
+                [
+                    "Friday",
+                    "CS-10",
+                    "8:30 a.m",
+                    "10:00 a.m"
+                ]
+            ],
+            "bse-6a": [
+                [
+                    "Wednesday",
+                    "CS-1",
+                    "11:30 a.m",
+                    "1:00 p.m"
+                ],
+                [
+                    "Friday",
+                    "CS-1",
+                    "11:30 a.m",
+                    "1:00 p.m"
+                ]
+            ]
+        },
+        "intro to public policy": {
+            "bcs-8a": [
+                [
+                    "Tuesday",
+                    "CS-16",
+                    "4:00 p.m",
+                    "5:30 p.m"
+                ],
+                [
+                    "Thursday",
+                    "CS-16",
+                    "4:00 p.m",
+                    "5:30 p.m"
+                ]
+            ]
+        },
+        "mod politics & gov": {
+            "bcs-8a": [
+                [
+                    "Tuesday",
+                    "E&M-1",
+                    "10:00 a.m",
+                    "11:30 a.m"
+                ],
+                [
+                    "Thursday",
+                    "CS-3",
+                    "10:00 a.m",
+                    "11:30 a.m"
+                ]
+            ]
+        },
+        "funda. of software eng": {
+            "bds-4b": [
+                [
+                    "Tuesday",
+                    "E&M-1",
+                    "11:30 a.m",
+                    "1:00 p.m"
+                ],
+                [
+                    "Thursday",
+                    "E&M-1",
+                    "11:30 a.m",
+                    "1:00 p.m"
+                ]
+            ],
+            "bds-4c": [
+                [
+                    "Tuesday",
+                    "CE-1",
+                    "2:30 p.m",
+                    "4:00 p.m"
+                ],
+                [
+                    "Thursday",
+                    "CE-1",
+                    "2:30 p.m",
+                    "4:00 p.m"
+                ]
+            ],
+            "bds-4a": [
+                [
+                    "Tuesday",
+                    "CE-3",
+                    "11:30 a.m",
+                    "1:00 p.m"
+                ],
+                [
+                    "Thursday",
+                    "CE-3",
+                    "11:30 a.m",
+                    "1:00 p.m"
+                ]
+            ]
+        },
+        "software testing": {
+            "bcs-8a": [
+                [
+                    "Tuesday",
+                    "E&M-2",
+                    "10:00 a.m",
+                    "11:30 a.m"
+                ],
+                [
+                    "Thursday",
+                    "E&M-2",
+                    "10:00 a.m",
+                    "11:30 a.m"
+                ]
+            ],
+            "bcs-8b": [
+                [
+                    "Tuesday",
+                    "CE-1",
+                    "1:00 p.m",
+                    "2:30 p.m"
+                ],
+                [
+                    "Thursday",
+                    "CS-15",
+                    "1:00 p.m",
+                    "2:30 p.m"
+                ]
+            ]
+        },
+        "management info systems": {
+            "bse-6a": [
+                [
+                    "Tuesday",
+                    "CE-2",
+                    "2:30 p.m",
+                    "4:00 p.m"
+                ],
+                [
+                    "Thursday",
+                    "CE-2",
+                    "2:30 p.m",
+                    "4:00 p.m"
+                ]
+            ],
+            "bse-6b": [
+                [
+                    "Tuesday",
+                    "CE-2",
+                    "4:00 p.m",
+                    "5:30 p.m"
+                ],
+                [
+                    "Thursday",
+                    "CE-2",
+                    "4:00 p.m",
+                    "5:30 p.m"
+                ]
+            ]
+        },
+        "formal methods": {
+            "bse-6a": [
+                [
+                    "Tuesday",
+                    "CS-1",
+                    "1:00 p.m",
+                    "2:30 p.m"
+                ],
+                [
+                    "Thursday",
+                    "CS-1",
+                    "1:00 p.m",
+                    "2:30 p.m"
+                ]
+            ],
+            "bse-6b": [
+                [
+                    "Tuesday",
+                    "CS-1",
+                    "2:30 p.m",
+                    "4:00 p.m"
+                ],
+                [
+                    "Thursday",
+                    "CS-1",
+                    "2:30 p.m",
+                    "4:00 p.m"
+                ]
+            ]
+        },
+        "modern politics & gov": {
+            "bcs-4a": [
+                [
+                    "Tuesday",
+                    "CS-8",
+                    "8:30 a.m",
+                    "10:00 a.m"
+                ],
+                [
+                    "Thursday",
+                    "CS-8",
+                    "8:30 a.m",
+                    "10:00 a.m"
+                ]
+            ]
+        },
+        "web engineering": {
+            "bse-6b": [
+                [
+                    "Tuesday",
+                    "CS-8",
+                    "1:00 p.m",
+                    "2:30 p.m"
+                ],
+                [
+                    "Thursday",
+                    "CS-8",
+                    "1:00 p.m",
+                    "2:30 p.m"
+                ]
+            ],
+            "bse-6a": [
+                [
+                    "Tuesday",
+                    "CS-8",
+                    "4:00 p.m",
+                    "5:30 p.m"
+                ],
+                [
+                    "Thursday",
+                    "CS-8",
+                    "4:00 p.m",
+                    "5:30 p.m"
+                ]
+            ]
+        },
+        "artificial intelligence lab": {
+            "bcs-6f": [
+                [
+                    "Tuesday",
+                    "Lab(CS-2B)",
+                    "11:30 a.m",
+                    "2:30 p.m"
+                ]
+            ],
+            "bds-6a": [
+                [
+                    "Tuesday",
+                    "Lab(CS-3)",
+                    "2:30 p.m",
+                    "5:30 p.m"
+                ]
+            ],
+            "bcs-6d": [
+                [
+                    "Wednesday",
+                    "Lab(CS-2B)",
+                    "11:30 a.m",
+                    "2:30 p.m"
+                ]
+            ],
+            "bcs-6e": [
+                [
+                    "Wednesday",
+                    "Lab(CS-2B)",
+                    "2:30 p.m",
+                    "5:30 p.m"
+                ]
+            ],
+            "bds-6b": [
+                [
+                    "Wednesday",
+                    "Lab(CS-4)",
+                    "8:30 a.m",
+                    "11:30 a.m"
+                ]
+            ],
+            "bcs-6c": [
+                [
+                    "Wednesday",
+                    "Lab(CS-4)",
+                    "11:30 a.m",
+                    "2:30 p.m"
+                ]
+            ],
+            "bcs-6a": [
+                [
+                    "Friday",
+                    "Lab(CS-6)",
+                    "8:30 a.m",
+                    "11:30 a.m"
+                ]
+            ],
+            "bcs-6b": [
+                [
+                    "Saturday",
+                    "Lab(CS-1)",
+                    "11:30 a.m",
+                    "2:30 p.m"
+                ]
+            ]
+        },
+        "f. of big data analytics lab": {
+            "bds-4a": [
+                [
+                    "Tuesday",
+                    "Lab(CS-9)",
+                    "8:30 a.m",
+                    "11:30 a.m"
+                ]
+            ],
+            "bds-4b": [
+                [
+                    "Wednesday",
+                    "Lab(CS-8)",
+                    "8:30 a.m",
+                    "11:30 a.m"
+                ]
+            ],
+            "bds-4c": [
+                [
+                    "Wednesday",
+                    "Lab(CS-9)",
+                    "11:30 a.m",
+                    "2:30 p.m"
+                ]
+            ]
+        },
+        "requirement engineering": {
+            "msp-2a": [
+                [
+                    "Wednesday",
+                    "CS-2",
+                    "5:30 p.m",
+                    "8:30 p.m"
+                ]
+            ]
+        },
+        "brand management": {
+            "bcs-4a": [
+                [
+                    "Wednesday",
+                    "E&M-11",
+                    "8:30 a.m",
+                    "10:00 a.m"
+                ],
+                [
+                    "Friday",
+                    "E&M-11",
+                    "8:30 a.m",
+                    "10:00 a.m"
+                ]
+            ]
+        },
+        "adhoc and sensor networks": {
+            "mcs-4a": [
+                [
+                    "Wednesday",
+                    "CE-2",
+                    "8:30 a.m",
+                    "11:30 a.m"
+                ]
+            ]
+        },
+        "advanced programming": {
+            "bcs-8a": [
+                [
+                    "Wednesday",
+                    "CE-3",
+                    "1:00 p.m",
+                    "2:30 p.m"
+                ],
+                [
+                    "Saturday",
+                    "CS-2",
+                    "1:00 p.m",
+                    "2:30 p.m"
+                ]
+            ]
+        },
+        "critical thinking": {
+            "bcs-4a": [
+                [
+                    "Wednesday",
+                    "E&M-16",
+                    "2:30 p.m",
+                    "4:00 p.m"
+                ],
+                [
+                    "Friday",
+                    "E&M-16",
+                    "2:30 p.m",
+                    "4:00 p.m"
+                ]
+            ]
+        },
+        "web engineering lab": {
+            "bse-6b": [
+                [
+                    "Wednesday",
+                    "Lab(CS-2A)",
+                    "11:30 a.m",
+                    "2:30 p.m"
+                ]
+            ],
+            "bse-6a": [
+                [
+                    "Friday",
+                    "Lab(CS-2A)",
+                    "2:30 p.m",
+                    "5:30 p.m"
+                ]
+            ]
+        },
+        "computer networks lab": {
+            "bse-6a": [
+                [
+                    "Wednesday",
+                    "Lab(CS-6)",
+                    "8:30 a.m",
+                    "11:30 a.m"
+                ]
+            ],
+            "bse-6b": [
+                [
+                    "Friday",
+                    "Lab(CS-8)",
+                    "10:00 a.m",
+                    "1:00 p.m"
+                ]
+            ],
+            "bcs-6c": [
+                [
+                    "Saturday",
+                    "Lab(CS-2A)",
+                    "8:30 a.m",
+                    "11:30 a.m"
+                ]
+            ],
+            "bcs-6a": [
+                [
+                    "Saturday",
+                    "Lab(CS-2A)",
+                    "11:30 a.m",
+                    "2:30 p.m"
+                ]
+            ],
+            "bcs-6b": [
+                [
+                    "Saturday",
+                    "Lab(CS-2A)",
+                    "2:30 p.m",
+                    "5:30 p.m"
+                ]
+            ]
+        },
+        "software quality assurance & management": {
+            "msp-2a": [
+                [
+                    "Thursday",
+                    "CS-2",
+                    "5:30 p.m",
+                    "8:30 p.m"
+                ]
+            ]
+        },
+        "software design and architecture lab": {
+            "bse-4a": [
+                [
+                    "Thursday",
+                    "Lab(CS-3)",
+                    "1:00 p.m",
+                    "4:00 p.m"
+                ]
+            ],
+            "bse-4b": [
+                [
+                    "Friday",
+                    "Lab(CS-6)",
+                    "2:30 p.m",
+                    "5:30 p.m"
+                ]
+            ],
+            "bse-4c": [
+                [
+                    "Saturday",
+                    "Lab(CS-3)",
+                    "8:30 a.m",
+                    "11:30 a.m"
+                ]
+            ]
+        },
+        "comp. org. & assembly lang. lab": {
+            "bds-4e": [
+                [
+                    "Thursday",
+                    "Lab(CS-4)",
+                    "2:30 p.m",
+                    "5:30 p.m"
+                ]
+            ],
+            "bcs-4l": [
+                [
+                    "Friday",
+                    "Lab(CS-2B)",
+                    "8:30 a.m",
+                    "11:30 a.m"
+                ]
+            ],
+            "bcs-4m": [
+                [
+                    "Friday",
+                    "Lab(CS-4)",
+                    "8:30 a.m",
+                    "11:30 a.m"
+                ]
+            ]
+        },
+        "practicum - i/ii": {
+            "msp-2a": [
+                [
+                    "Friday",
+                    "CS-2",
+                    "8:30 a.m",
+                    "11:30 a.m"
+                ]
+            ]
+        },
+        "management & organizational behaviour": {
+            "msp-2a": [
+                [
+                    "Friday",
+                    "CS-2",
+                    "5:30 p.m",
+                    "8:30 p.m"
+                ]
+            ]
+        },
+        "advanced computer vision": {
+            "mds-4a": [
+                [
+                    "Friday",
+                    "CS-3",
+                    "8:30 a.m",
+                    "11:30 a.m"
+                ]
+            ]
+        },
+        "info retrieval and text mining": {
+            "mds-4a": [
+                [
+                    "Friday",
+                    "CS-7",
+                    "2:30 p.m",
+                    "5:30 p.m"
+                ]
+            ]
+        },
+        "applied image processing": {
+            "mcs-2a": [
+                [
+                    "Friday",
+                    "CS-11",
+                    "8:30 a.m",
+                    "11:30 a.m"
+                ]
+            ]
+        },
+        "computational intelligence": {
+            "mcs-2a": [
+                [
+                    "Friday",
+                    "CS-11",
+                    "2:30 p.m",
+                    "5:30 p.m"
+                ]
+            ]
+        },
+        "data mining lab": {
+            "bds-6a": [
+                [
+                    "Friday",
+                    "Lab(CS-8)",
+                    "2:30 p.m",
+                    "5:30 p.m"
+                ]
+            ]
+        },
+        "information security": {
+            "bcs-8a": [
+                [
+                    "Saturday",
+                    "CS-3",
+                    "10:00 a.m",
+                    "1:00 p.m"
+                ]
+            ],
+            "bcs-8b": [
+                [
+                    "Saturday",
+                    "CS-3",
+                    "2:30 p.m",
+                    "5:30 p.m"
+                ]
+            ]
+        }
+    },
+    "timings": [
+        "8:30 a.m",
+        "10:00 a.m",
+        "11:00 a.m",
+        "11:30 a.m",
+        "1:00 p.m",
+        "1:30 p.m",
+        "2:30 p.m",
+        "3:00 p.m",
+        "4:00 p.m",
+        "4:30 p.m",
+        "5:30 p.m",
+        "6:00 p.m",
+        "7:00 p.m",
+        "8:30 p.m"
+    ]
+}
